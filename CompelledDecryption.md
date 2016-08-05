@@ -4,6 +4,11 @@ Ladar Levinson
 
 [Abstract](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Levison)
 
+# Summary
+The only thing safe from compelled decryption is your mind, and only if they can't specifically request a set of files and can prove that you have knowledge of how to decrypt them.  Don't admit to knowing the key, that it's your laptop, and don't print out recovery keys or other physical artifacts that can be searched for and used to subvert your encryption.  Vote, and support reforming the government, who is continously trying to undermine your privacy.
+
+# Notes
+
 Great slides (diploma from school of hard knocks, drinking from the firehose).
 
 Government corrupted by people who derive gratification from corrupting the law to impinge our freedoms.
