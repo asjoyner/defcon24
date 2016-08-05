@@ -10,3 +10,4 @@ Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thi
 
 ### Friday
 #### [Feds and 0Days](https://github.com/asjoyner/defcon24/blob/master/FedsAnd0Days.md)
+#### [Compelled Decryption](https://github.com/asjoyner/defcon24/blob/master/CompelledDecryption.md)
