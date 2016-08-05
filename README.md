@@ -4,13 +4,14 @@ DEF CON is a hacking conference in Las Vegas, NV from August 4th-7th.  I'll be a
 
 ## The Talks
 ### Thursday
-#### Realtime Bluetooth Device Detection
-Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thing going on, several tens of thousands of attendees... thus an endless line.
-#### [Cyber Grand Challenge](https://github.com/asjoyner/defcon24/blob/master/Cyber Grand Challenge.md)
+* Realtime Bluetooth Device Detection
+   Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thing going on, several tens of thousands of attendees... thus an endless line.
+* [Cyber Grand Challenge](https://github.com/asjoyner/defcon24/blob/master/Cyber Grand Challenge.md)
 
 ### Friday
-#### [Feds and 0Days](https://github.com/asjoyner/defcon24/blob/master/FedsAnd0Days.md)
-#### [Compelled Decryption](https://github.com/asjoyner/defcon24/blob/master/CompelledDecryption.md)
-#### [Honey Onions: Exposing Snooping Tor HSDir Relays](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
-#### [Frontrunning the Frontrunners](https://github.com/asjoyner/defcon24/blob/master/FrontRunners.md)
-
+* [Feds and 0Days](https://github.com/asjoyner/defcon24/blob/master/FedsAnd0Days.md)
+* [Compelled Decryption](https://github.com/asjoyner/defcon24/blob/master/CompelledDecryption.md)
+* [Honey Onions: Exposing Snooping Tor HSDir Relays](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
+* [Frontrunning the Frontrunners](https://github.com/asjoyner/defcon24/blob/master/FrontRunners.md)
+* How to remote control an airliner: cancelled; presenter didn't show.  :-(
+* [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/SlouchingTowardsUtpoia.md)
