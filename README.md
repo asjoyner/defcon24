@@ -9,3 +9,9 @@ Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thi
 ### Cyber Grand Challenge
 
 The full writeup is in a [separate doc](https://github.com/asjoyner/defcon24/blob/master/Cyber Grand Challenge.md).
+
+### [Feds and 0Days](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Healey)
+
+[Notes here](https://github.com/asjoyner/defcon24/blob/master/FedsAnd0Days.md).
+
+
