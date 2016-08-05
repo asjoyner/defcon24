@@ -4,8 +4,7 @@ DEF CON is a hacking conference in Las Vegas, NV from August 4th-7th.  I'll be a
 
 ## The Talks
 ### Thursday
-* Realtime Bluetooth Device Detection
-   Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thing going on, several tens of thousands of attendees... thus an endless line.
+* Realtime Bluetooth Device Detection: Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thing going on, several tens of thousands of attendees... thus an endless line.
 * [Cyber Grand Challenge](https://github.com/asjoyner/defcon24/blob/master/Cyber Grand Challenge.md)
 
 ### Friday
