@@ -24,3 +24,7 @@ The game is played in 100 Rounds.  The first one they show is the results of Rou
 ## Developments
 
 An exciting development!  A team has discovered an unintended vulnerability in one of the challenges, exploited it against a second team, and the second team reacted to that intrustion and deployed a mitigation against it, all in less than 10 minutes of analysis end to end.
+
+## Conclusions
+
+It was presented as if the results were coming in "in real time", but as we started to better understand what was happening, it seemed that they were actually presenting the outcomes of rounds that had arleady been played.  In each round, each team's Cyber Reasoning System (CRS) is given 5 minutes of computation time before declaring what it will do in the next round.  For 100 rounds that's 500 minutes or >8 hours of pure computation time.  There were rumors of results being posted on twitter earlier in the day, though I couldn't find them in a quick search.  It seems likely that they actually started thecompettion earlier on Thursday; it would have been nice of them to communicate that more clearly.
