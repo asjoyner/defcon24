@@ -13,4 +13,5 @@ DEF CON is a hacking conference in Las Vegas, NV from August 4th-7th.  I'll be a
 * [Honey Onions: Exposing Snooping Tor HSDir Relays](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
 * [Frontrunning the Frontrunners](https://github.com/asjoyner/defcon24/blob/master/FrontRunners.md)
 * How to remote control an airliner: cancelled; presenter didn't show.  :-(
+* [Honey Onions](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
 * [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/SlouchingTowardsUtpoia.md)
