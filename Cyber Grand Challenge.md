@@ -1,4 +1,8 @@
 # Cyber Grand Challenge
+
+The [Cyber Grand Challenge](https://www.cybergrandchallenge.com/) was DARPA's effort to advance the state of machine learning in security, by staging a competition for autonomous hacking and defense, in the style of DEFCON Capture The Flag (CTF) hacking competition.
+
+## The Pregame Show
 Very interesting pre-roll video, lots of quotes from people involved.  Amuzing airgap with a machine that burns a CD with the data for visulization, and a robot that picks it up and drops it over the airgap wall.  :)  Lots of discussion about the visualizations, how the scoring works, how the rounds of the competition works, etc.
 
 ## Scoring
