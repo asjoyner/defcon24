@@ -2,14 +2,18 @@
 
 [Abstract](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Plore)
 
-This talk focuses on Group 1 UL listed locks.  Not GSA locks, but those found on large commercial gun safes and the like.
+This talk focuses on Group 1 UL listed locks.  Not cheap hotel-safe locks, but not GSA-approved high security locks.  The focus is on the type of locks found on large commercial gun, burglary and fire safes.
 
 ## First Target
 S&G 6120
 
 The logic exists inside the safe, battery, buzzer and keypad outside.
 
+![6120 system model](https://goo.gl/photos/QFwWXXRoUgNKzSyx9)
+
 Add a pullup resistor to the battery, monitor the voltage with an oscilliscope, and you can see the difference in voltage of a 0 vs 1 as the ECU reads the key code from the eeprom in clear text.  Decode the value from binary to decimal, punch it in on the keypad, the lock opens.
+
+![6120 circut model](https://goo.gl/photos/jhKzJiNqehbf2YtV6)
 
 ## Second Target
 S&G Titan PivotBolt
