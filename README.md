@@ -1,6 +1,6 @@
 # DEFCON 24
 
-DEF CON is a hacking conference in Las Vegas, NV from August 4th-7th.  I'll be attending lots of interesting talks, and dumping notes about them in this repository as I go.  I put together a Google Calendar of [interesting talks](https://calendar.google.com/calendar/embed?src=joyner.ws_f8gv1f22fi6plfbkgsms4i8470%40group.calendar.google.com&ctz=America/Los_Angeles).  The [official complete schedule](https://www.defcon.org/html/defcon-24/dc-24-schedule.html) is also online.  Talks I attend (or at least type notes for) will end up described below.
+DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24, held from August 4th-7th.  I'll be attending lots of interesting talks, and dumping notes about them in this repository as I go.  I put together a Google Calendar of [interesting talks](https://calendar.google.com/calendar/embed?src=joyner.ws_f8gv1f22fi6plfbkgsms4i8470%40group.calendar.google.com&ctz=America/Los_Angeles), most of which I'll attend.  The [official complete schedule](https://www.defcon.org/html/defcon-24/dc-24-schedule.html) is also online.  Talks I attend (or at least type notes for) will end up described below.
 
 ## The Talks
 ### Thursday
@@ -16,4 +16,5 @@ DEF CON is a hacking conference in Las Vegas, NV from August 4th-7th.  I'll be a
 * [Honey Onions](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
 * [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/SlouchingTowardsUtpoia.md)
 * [Side-channel attacks on high-security electronic safe locks](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
+* [Samsung Pay: Tokenized Numbers, Flaws and Issues](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
 * [Hacking Next-Gen ATM's From Capture to Cashout](https://github.com/asjoyner/defcon24/blob/master/HackingATMs.md)
