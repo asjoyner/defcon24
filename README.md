@@ -18,3 +18,7 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 * [Side-channel attacks on high-security electronic safe locks](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
 * [Samsung Pay: Tokenized Numbers, Flaws and Issues](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
 * [Hacking Next-Gen ATM's From Capture to Cashout](https://github.com/asjoyner/defcon24/blob/master/HackingATMs.md)
+
+
+### Saturday
+* [How to overthrow a Government](https://github.com/asjoyner/defcon24/blob/master/OverthrowGovernment.md)
