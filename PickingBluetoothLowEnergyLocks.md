@@ -53,14 +53,13 @@ Uncracked locks
 
 ### Exploits
 
-ScaPy has commands for sending arbitrary socket connections
+#### Clear text passwords
+There were about 4 or 5 locks vulnerable in this way, most commonly available was the Quicklock.  It uses a clear text password, in the format of opcode + old password + new password.  You can change the opcode from 0 to 1, and the second copy of the password is accepted as the new password.  Resetting the lock password requires removing the battery... but the password change locks the user out of pulling the battery, because the battery is protected by a little shield when the door is locked.  Whoops.
 
-Quiklock
-Clear text password, opcode + old password + new password
-password change locks the user out of pulling the battery, because it requires the door to be open
+ScaPy has a socket library, useful for sending arbitrary data to the locks
 
 #### Replay attacks
-AES256 encryption! ...  with no replay protection.
+AES256 encryption! ...  with no replay protection.  Vulnerable locks include:
 * Ceomate Bluetooth Smartlock
 * Elecycle Smart Padlock
 * Vians Bluetooth Smart Doorlock
