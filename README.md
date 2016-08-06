@@ -16,4 +16,4 @@ DEF CON is a hacking conference in Las Vegas, NV from August 4th-7th.  I'll be a
 * [Honey Onions](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
 * [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/SlouchingTowardsUtpoia.md)
 * [Side-channel attacks on high-security electronic safe locks](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
-
+* [Hacking Next-Gen ATM's From Capture to Cashout](https://github.com/asjoyner/defcon24/blob/master/HackingATMs.md)
