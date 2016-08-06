@@ -24,3 +24,4 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 * [How to overthrow a Government](https://github.com/asjoyner/defcon24/blob/master/OverthrowGovernment.md)
 * [Picking Bluetooth Low Energy Locks from a Quarter Mile Away](https://github.com/asjoyner/defcon24/blob/master/PickingBluetoothLowEnergyLocks.md)
 * [Bypassing Captive Portals and Limited Networks](https://github.com/asjoyner/defcon24/blob/master/BypassingCaptivePortals.md)
+* [NG91-1-1: The Next Generation of Emergency Ph0nage](https://github.com/asjoyner/defcon24/blob/master/NG911.md)
