@@ -2,6 +2,9 @@
 
 [Abstract](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Bugher)
 
+## Summary
+Nothing particularly new, but a very nice overview of the available options, and tooling recommendations.  I should really bother to setup an Iodine end point, and script up the "watch for a working MAC to stop being used" suggestion.
+
 ## Notes
 Submitted as a DEFCON 101 talk, but they stuck him in Track 1 because rightly they knew it would be popular, and indeed it filled the room.
 
