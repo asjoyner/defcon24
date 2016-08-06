@@ -27,12 +27,8 @@ Malicious LTE network can redirect the phone to a malicious GSM network.  Demo v
 1. Phone boots
 1. Phone chooses network with strongest signal
 1. Phone sends attach request
-1. Phone 
-
-Malicious base station sends a Tracking Area Update Reject response, causing the phone to send it's IMSI number
-Having the IMSI allows you send an Attach Reject with codes 3,7,8,14, all of which convince the modem that it should shut down for a long time (eg. "you're stolen", and "you're not allowed to be here")
-
-Can also send redirectedCarrierInfo, to redirect you into the 2G or 3G malicious network.
+1. Malicious base station sends a Tracking Area Update Reject response, causing the phone to send it's IMSI number
+1. Having the IMSI allows you send an Attach Reject with codes 3,7,8,14, all of which convince the modem that it should shut down for a long time (eg. "you're stolen", and "you're not allowed to be here").  Can also send redirectedCarrierInfo, to redirect you into the 2G or 3G malicious network.
 
 ### Why not just Jam 4G?
 Why is this better than jamming?  Jamming influences all cell phones.  The redirection attack allows you to target only specific phones.  You can redirect all other users who connect to a nearby regular 4G network, and only capture the target device and redirect it to your target network.

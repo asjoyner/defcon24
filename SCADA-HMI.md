@@ -119,6 +119,6 @@ On average, 140 days from disclosure to patch.  Patching by humans take 2x to be
 
 Some are better than others:
 
-image forthcoming!
+![vendor security response performance](https://goo.gl/photos/S332x1q3VL8xT1LG7)
 
 Compared to other industries, SCADA vendors are roughly in the middle, not as good as "highly-deployed" eg. Microsoft et al (real software vendors), but much better than "Business" software, eg. HP.
