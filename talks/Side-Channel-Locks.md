@@ -9,11 +9,11 @@ S&G 6120
 
 The logic exists inside the safe, battery, buzzer and keypad outside.
 
-![6120 system model](https://goo.gl/photos/QFwWXXRoUgNKzSyx9)
+![6120 system model](../talks/6120-System-Model.png)
 
 Add a pullup resistor to the battery, monitor the voltage with an oscilliscope, and you can see the difference in voltage of a 0 vs 1 as the ECU reads the key code from the eeprom in clear text.  Decode the value from binary to decimal, punch it in on the keypad, the lock opens.
 
-![6120 circut model](https://goo.gl/photos/jhKzJiNqehbf2YtV6)
+![6120 circuit model](../talks/6120-Circuit-Model.png)
 
 ## Second Target
 S&G Titan PivotBolt

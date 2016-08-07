@@ -5,7 +5,7 @@
 ## Summary
 Speaker spoke in a welding / radiation hood, which made him almost uninteligible.  He got a late start due to projector issues, and spent his limited time talking about the history of nuclear warfare, the likelihood of proliferation, and the likelihood of various types of warfare.  I am sad that he didn't get around to much practical advice on providing shelter for your electronics from EMP.
 
-![speaker photo](https://goo.gl/photos/ZG1A6dc51mYR69Ud6)
+![speaker photo](../images/ManInHat.jpg)
 
 ## Notes
 Tried to give this talk last year, but it got scuttled by the feds.  Ordering tritium from Thailand is bad, mkay?
