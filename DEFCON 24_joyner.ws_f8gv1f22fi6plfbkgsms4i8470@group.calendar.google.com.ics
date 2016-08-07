@@ -1,0 +1,2028 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DEFCON 24
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Interesting events at DEFCON 24.  Note\, this is not comprehen
+ sive.
+BEGIN:VEVENT
+DTSTART:20160805T000000Z
+DTEND:20160805T030000Z
+DTSTAMP:20160807T164603Z
+UID:lsthcp10bsudbb8bang14gb4ic@google.com
+CREATED:20160804T161637Z
+DESCRIPTION:
+LAST-MODIFIED:20160804T161659Z
+LOCATION:Paris Ballroom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyber Grand Challenge
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T170000Z
+DTEND:20160805T180000Z
+DTSTAMP:20160807T164603Z
+UID:pp1uvj4di4rd0lh3kkjrtri79c@google.com
+CREATED:20160804T161751Z
+DESCRIPTION:With this presentation\, we take a new approach to reverse engi
+ neering. Instead of attempting to decompile code\, we seek to undo the work
+  of the linker and produce relocatable files\, the typical output of a comp
+ iler. The main benefit of the later technique over the former being that it
+  does work. Once achieved universal code ‘reuse’ by relinking those relocat
+ able objects as arbitrary shared libraries\, we'll create a form of binary 
+ reflection\, add scripting capabilities and in memory debugging using a JIT
+  compiler\, to attain automated API prototyping and annotation\, which\, we
+  will argue\, constitutes a primary form of binary code self awareness. Fin
+ ally\, we'll see how abusing the dynamic linker internals shall elegantly s
+ olve a number of complex tasks for us\, such as calling a given function wi
+ thin a binary without having to craft a valid input to reach it. \n\nThe ap
+ plications in terms of vulnerability exploitation\, functional testing\, st
+ atic analysis validation and more generally computer wizardry being tremend
+ ous\, we'll have fun demoing some new exploits in real life applications\, 
+ and commit public program profanity\, such as turing PEs into ELFs\, functi
+ onal scripting of sshd in memory\, stealing crypto routines without even di
+ sassembling them\, among other things that were never supposed to work. All
+  the above techniques have been implemented into the Wichcraft Compiler Col
+ lection\, to be released as proper open source software (MIT/BSD-2 licenses
+ ) exclusively at DEF CON 24.\n\nJonathan Brossard is a computer whisperer f
+ rom France\, although he's been living in Brazil\, India\, Australia and no
+ w lives in San Francisco. For his first conference at DEF CON 16\, he hacke
+ d Microsoft Bitlocker\, McAffee Endpoint and a fair number of BIOS Firmware
+ s. During his second presentation at DEF CON 20\, he presented Rakshasa\, a
+  BIOS malware based on open source software\, the MIT Technology review lab
+ eled &lquo\;incurable and undetectable&rquo\;. \n\nThis year will be his th
+ ird DEF CON ... Endrazine is also known in the community for having run the
+  Hackito Ergo Sum and NoSuchCon conferences in France\, participating to th
+ e Shakacon Program Committee in Hawaii\, and authoring a number of exploits
+  over the past decade. Including the first remote Windows 10 exploit and se
+ veral hardcore reverse engineering tools and whitepapers. Jonathan is part 
+ of the team behind MOABI.COM\, and acts as the Principal Engineer of Produc
+ t Security at Salesforce.\n\nTwitter: @endrazine \nFacebook: toucansystem\n
+ https://moabi.com
+LAST-MODIFIED:20160804T161759Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Introduction the Wichcraft Compiler Collection : Towards Universal 
+ Code Theft
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T170000Z
+DTEND:20160805T180000Z
+DTSTAMP:20160807T164603Z
+UID:tak9q3or9jd1h7pbuol131voms@google.com
+CREATED:20160804T161941Z
+DESCRIPTION:At DEF CON 16 in 2008\, we released the original BSODomizer (ww
+ w.bsodomizer.com)\, an open source VGA pranking tool and introductory hacki
+ ng platform for the multicore Propeller micro-controller. Hours of producti
+ vity were replaced with rage and frustration as unwitting computer users we
+ re confronted with fake Blue Screens of Death and revolting ASCII art. But\
+ , the world has changed. The machines have risen in capability. HDMI is the
+  graphical transmission protocol of choice and hacking with micro-controlle
+ rs is standard issue. The as-seen-on-HDTV duo of Joe Grand and Zoz return w
+ ith the next generation of mischievous hardware\, a device that supplants o
+ r captures any inline HDMI signal in a discreet\, pentest-worthy package. B
+ SODomizer HD is an FPGA-based system that not only improves on the graphics
+  interception and triggering features of its predecessor\, but can now capt
+ ure screenshots of a target system and also provides a fully open design th
+ at you can use for your own experiments into the mystical world of massive\
+ , customizable arrays of digital logic. We'll guide you through the process
+  of going from lamer zero to hacker hero with FPGAs\, while savagely fuckin
+ g with a few unfortunate friends along the way!\n\nJoe Grand\, also known a
+ s Kingpin\, is a computer engineer\, hardware hacker\, former DEF CON badge
+  designer\, runner\, daddy\, honorary doctor\, TV host\, member of L0pht He
+ avy Industries\, and the proprietor of Grand Idea Studio. \nTwitter: @joegr
+ and\n\nZoz is a robotics engineer\, prankster\, and renaissance hacker. Oth
+ er than BSODs\, things he enjoys faking include meteorite impacts\, crop ci
+ rcles\, and alien crash landings.
+LAST-MODIFIED:20160804T161941Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BSODomizer HD: A Mischievous FPGA and HDMI Platform for the (M)asse
+ s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T170000Z
+DTEND:20160805T180000Z
+DTSTAMP:20160807T164603Z
+UID:fvaf4uu67jjmvlgbt0n5qjci1k@google.com
+CREATED:20160804T162027Z
+DESCRIPTION:Does the FBI have to tell Apple of the vuln it used to break th
+ eir iPhone? How many 0days every year go into the NSA arsenal -- dozens\, h
+ undreds or thousands? Are there any grown-ups in Washington DC watching ove
+ r FBI or NSA as they decide what vulns to disclose to vendors and which to 
+ keep to themselves? These are all key questions which have dominated so muc
+ h of 2016\, yet there's been relatively little reliable information for us 
+ to go on\, to learn what the Feds are up to and whether it passes any defin
+ ition of reasonableness.\n\nBased on open-source research and interviews wi
+ th many of the principal participants\, this talk starts with the pre-histo
+ ry starting in the 1990s before examining the current process and players (
+ as it turns out\, NSA prefers to discover their own vulns\, CIA prefers to 
+ buy). The current process is run from the White House with "a bias to discl
+ ose" driven by a decision by the President (in because of the Snowden revel
+ ations). The entire process was made public when NSA was forced to deny med
+ ia reports that it had prior knowledge of Heartbleed.\n\nJason Healy is a S
+ enior Research Scholar at Columbia University's School for International an
+ d Public Affairs. During his time in the White House\, he coordinated effor
+ ts to secure the Internet and US critical infrastructure. He started his ca
+ reer as a US Air Force intelligence officer where he helped create the firs
+ t joint cyber command\, in 1998 and is a Senior Fellow at the Atlantic Coun
+ cil. \n\nTwitter: @Jason_Healey
+LAST-MODIFIED:20160804T162027Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Feds and 0Days: From Before Heartbleed to After FBI-Apple
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T180000Z
+DTEND:20160805T190000Z
+DTSTAMP:20160807T164603Z
+UID:0pst8bf7isgccgqqmn5pbg5r4s@google.com
+CREATED:20160804T162621Z
+DESCRIPTION:Ladar LevisonFounder\, Lavabit\, LLC.\n\nGet mirandized for an 
+ encrypted world. This talk will cover the legal doctrines and statues our g
+ overnment is perverting to compel individuals into decrypting their data\, 
+ or conscript technology companies into subverting the security of their own
+  products. We’ll survey the arguments being advanced by prosecutors\, the r
+ esulting case law\, and the ethical dilemmas facing technology companies. T
+ he session will cover the rights and civil liberties we’ve already lost\, a
+ nd review the current threats to our collective freedoms. We’ll cover what 
+ an individual needs to know if they want to avoid compelled decryption\, an
+ d keep their data private. We’ll also discuss strategies that third parties
+  (friends\, f/oss developers\, and technology companies) can use to resist 
+ conscription and build trust through transparency. Because knowing your rig
+ hts\, is only half the battle\n\nLadar Levison serves as the founder\, pres
+ ident\, and chief executive of Lavabit\, where he has worked the past 12 ye
+ ars. Founded in 2004 (and originally called Nerdshack)\, Lavabit was create
+ d because Mr. Levison believes that privacy is a fundamental\, necessary ri
+ ght for a functioning\, free and fair democratic society. Presently\, Mr. L
+ evison is focused on Lavabit's Dark Mail Initiative\, which aims to make en
+ d-to-end email encryption automatic and ubiquitous\, while continuing to vi
+ gorously advocate for the privacy and free speech rights of all. Mr. Leviso
+ n’s involvement in the internet can be traced to the early days of the worl
+ d wide web\, when he built his first website\, in the early nineties for th
+ e fledgling Mosiac web browser (from the National Center for Supercomputing
+  Applications). \n\nPrior\, Mr. Levison operated a dialup bulletin board se
+ rvice\, and worked as a computer technician assembling custom computer syst
+ ems. With more than 10 years of experience as an independent consultant\, M
+ r. Levison has brought to bear his skills as a project manager\, business a
+ nalyst\, systems engineer\, software developer\, database administrator\, s
+ ystems administrator\, and information security specialist. \n\nMr. Levison
+ ’s career has involved working with several dozen multinational companies i
+ n the financial\, consumer electronics\, and retail sectors. The websites M
+ r. Levison built have drawn millions of visitors\, and the software he's wr
+ itten has touched\, albeit behind the scenes\, the lives of millions more. 
+ Over the years\, Mr. Levison has written and published numerous technical s
+ pecifications and authored several editorial pieces. Mr. Levison frequently
+  speaks at a variety of conferences\, has appeared as an expert on numerous
+  network television shows\, and appeared in several documentaries\; includi
+ ng the Oscar winning film\, /Citizenfour/.\n\nMr. Levison has also been inv
+ olved with several popular free open source software projects. Mr. Levison 
+ holds fifteen certifications\, with the vast majority from Microsoft and In
+ ternational Business Machines. Mr. Levison received his Bachelor of Arts an
+ d Bachelor of Science degrees from Southern Methodist University\, where he
+  studied finance\, English\, political science and computer science. Additi
+ onally\, Mr. Levison spent a year studying international relations at Georg
+ etown University. A native of San Francisco\, California\, he currently res
+ ides in Dallas\, Texas where he lives with his best friend\, and principal 
+ cheerleader\, Princess\, the Italian Greyhound he rescued in 2010.\n\nTwitt
+ er: @kingladar \nFacebook\nDarkmail\nLavabit
+LAST-MODIFIED:20160804T162621Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Compelled Decryption - State of the Art in Doctrinal Perversions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T190000Z
+DTEND:20160805T193000Z
+DTSTAMP:20160807T164603Z
+UID:b8nagi7h8bjkfnfmra4bkmdtjo@google.com
+CREATED:20160804T163056Z
+DESCRIPTION:CAN i haz car secret plz?\nJavier Vazquez Vidal Hardware Securi
+ ty Specialist at Code White Gmbh\nFerdinand Noelscher Information Security 
+ Specialist at Code White Gmbh\n\nThe CAN bus is really mainstream\, and eve
+ ry now and then there are new tools coming out to deal with it. Everyone wa
+ nts to control vehicles and already knows that you can make the horn honk b
+ y replaying that frame you captured. But is this all that there is on this 
+ topic? Reversing OEM and third party tools\, capturing firmware update file
+ s on the fly\, and hijacking Security Sessions on a bus are just a few exam
+ ples of things that can be done as well. For this and more\, we will introd
+ uce to you the CanBadger! It's not just a logger\, neither an injector. It'
+ s a reversing tool for vehicles that allows you to interact in realtime wit
+ h individual components\, scan a bus using several protocols (yup\, UDS is 
+ not the only one) and perform a series of tests that no other tool offers. 
+ The CanBadger is where the real fun begins when dealing with a vehicle\, an
+ d you can build it under $60USD! If you are already done with replaying fra
+ mes on the CAN bus and want to learn how that fancy chip-tuning tool deals 
+ with your car\, or simply want to get Security Access to your vehicle witho
+ ut caring about the security key or algorithm\, we are waiting for you!\n\n
+ Javier Vazquez Vidal is passionate about technology and specializes in hard
+ ware and embedded systems security. He studied Electromechanics and Telecom
+ munications\, developing a passion for electronics and technology since his
+  youth. He has been part of several projects that involved well-known hardw
+ are\, but his first public work was presented at DEF CON 21\, the ECU tool.
+  He developed the CHT\, a tool to take over the CAN network\, and had some 
+ fun with the ‘paella country’ smart meters. He is currently working as a Pr
+ oduct Security Engineer at Code White GmbH\, and has worked at companies su
+ ch as Tesla\, Daimler\, Airbus Military and Visteon.\n\nFerdinand Noelscher
+  is an information security researcher from Germany. He has been working in
+  Information Security for several years now. Ferdinand is very passionate a
+ bout Offensive Security research and has been working on numerous embedded 
+ security projects\, and some lasers too. Furthermore\, he gave a training t
+ ogether with Javier at hardwear.io. He is currently a Security Researcher a
+ t Code White.
+LAST-MODIFIED:20160804T163847Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CAN i haz car secret plz?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T190000Z
+DTEND:20160805T193000Z
+DTSTAMP:20160807T164603Z
+UID:c4d1tkicmekjkp4ivm84ptagb8@google.com
+CREATED:20160804T162802Z
+DESCRIPTION:Guevara Noubir Professor\, College of Computer and Information 
+ Science\, Northeastern University\nAmirali Sanatinia PhD candidate\, Colleg
+ e of Computer and Information Science\, Northeastern University\n\nTor is a
+  widely used anonymity network that protects users' privacy and and identit
+ y from corporations\, agencies and governments. However\, Tor remains a pra
+ ctical system with a variety of limitations\, some of which were indeed exp
+ loited in the recent past. In particular\, Tor's security relies on the fac
+ t that a substantial number of its nodes do not misbehave. \n\nPrevious wor
+ k showed the existence of malicious participating Tor relays. For example\,
+  there are some Exit nodes that actively interfere with users' traffic and 
+ carry out man-in-the-middle attacks. In this work we expose another categor
+ y of misbehaving Tor relays (HSDirs)\, that are integral to the functioning
+  of the hidden services and the dark web. The HSDirs act as the DNS directo
+ ry for the dark web. Because of their nature\, detecting their malicious in
+ tent and behavior is much harder. We introduce\, the concept of honey onion
+ s (honions)\, a framework to detect misbehaving Tor relays with HSDir capab
+ ility. By setting up and deploying a large scale honion over Tor for more t
+ han 72 days\, we are able to obtain lower bounds on misbehavior among HSDir
+ s. \n\nWe propose algorithms to both estimate the number of snooping HSDirs
+  and identify them\, using optimization and feasibility techniques. Our exp
+ erimental results indicate that during the period of our work at least 110 
+ such nodes were snooping information about hidden services they host. We re
+ veal that more than half of them were hosted on cloud infrastructure and de
+ layed the use of the learned information to prevent easy traceback. Further
+ more\, we provide the geolocation map of the identified snooping Tor HSDirs
+ \n\nGuevera Noubir holds a PhD in Computer Science from EPFL and is current
+ ly a Professor at Northeastern University. His research focuses on privacy\
+ , and security. He is a recipient of the National Science Foundation CAREER
+  Award (2005). He led the winning team of the 2013 DARPA Spectrum Cooperati
+ ve Challenge. Dr. Noubir held visiting research positions at Eurecom\, MIT\
+ , and UNL. He served as program co-chair of several conferences in his area
+ s of expertise such as the ACM Conference on Security and Privacy in Wirele
+ ss and Mobile Networks\, and IEEE Conference on Communications and Network 
+ Security. He serves on the editorial board of the ACM Transaction on Inform
+ ation and Systems Security\, and IEEE Transaction on Mobile Computing.\n\nA
+ mirali Sanatinia is a Computer Science PhD candidate at Northeastern advise
+ d by Professor Guevara Noubir\, and holds a Bachelors degree in CS from St 
+ Andrews University. His research focuses on cyber security and privacy\, an
+ d was covered by venues such as MIT Technology Review and ACM Tech News. He
+  is also the OWASP Boston NEU Student chapter founder and leader
+LAST-MODIFIED:20160804T163855Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honey Onions: Exposing Snooping Tor HSDir Relays
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T193000Z
+DTEND:20160805T200000Z
+DTSTAMP:20160807T164603Z
+UID:ts5bk8l1jlvg44e0kf3m171nus@google.com
+CREATED:20160804T163450Z
+DESCRIPTION:Frontrunning the Frontrunners\nDr. Paul VixieCEO and Co-founder
+ \, Farsight Security\, Inc.\n\n-While some domainers allegedly brainstorm i
+ deas for new domains to register while taking a shower\, the more successfu
+ l domain portfolio managers\, working at scale\, are believed to be ‘data d
+ riven.’ DNS queries are a material source of intelligence about domainer op
+ portunities and operations\, and also help us to understand the operational
+  constraints around potentially combating domainers\, should we want to do 
+ so. In this presentation co-authored with Farsight Security Scientist Dr. J
+ oe St Sauver\, Farsight Security CEO Dr. Paul Vixie will scrutinize failed 
+ DNS queries (‘NXDOMAINs’)\, looking for the same ‘opportunities’ that a dom
+ ainer or typo squatter would (although we will not be acting on that data b
+ y actually registering domains). \n\nDr. Vixie will discuss two primary typ
+ es of behavior: 1) Volumetrically-driven typo-squatting\, which Dr. Vixie w
+ ill measure by computing the volume of NXDOMAINs seen by domain during a 24
+  hour period\, and the time between popular typos appearing in NXDOMAINs an
+ d those same domains being registered and actually used\, and 2) Domainers 
+ programmatically exploring permutations of domains around high value domain
+ s\, probing for available domains and automatically registering the most pr
+ omising probed domains discovered to still be available. Both of these hypo
+ thesized behaviors should be externally observable and thus able to be conf
+ irmed by watching a real-time stream of NXDOMAIN errors\, and a real-time s
+ tream of newly observed\, actually-registered domains\, as available from t
+ he Security Information Exchange.\n\nDr. Paul Vixie will experimentally con
+ firm these hypothesized relationships and describe examples of (1) the most
+  commonly observed types of typographical errors\, (2) the brands apparentl
+ y most-targeted for squatting\, (3) the distribution of delays from NXDOMAI
+ N detection to observed domain use\, (4) the potential relationship between
+  NXDOMAIN volume thresholds and TLD cost. Dr. Vixie will also explain how t
+ his information illuminates opportunities for tackling these types of domai
+ n name abuse. Time will be reserved for Q&A.\n\nDr. Paul Vixie is the CEO a
+ nd Co-founder of Farsight Security. He previously served as President\, Cha
+ irman and Founder of Internet Systems Consortium (ISC)\, as President of MA
+ PS\, PAIX and MIBH\, as CTO of Abovenet/MFN\, and on the boards of several 
+ for-profit and non-profit companies. He served on the ARIN Board of Trustee
+ s from 2005 to 2013\, as ARIN Chairman in 2008 and 2009\, and was a foundin
+ g member of ICANN Root Server System Advisory Committee (RSSAC) and ICANN S
+ ecurity and Stability Advisory Committee (SSAC). He operated the ISC's F-Ro
+ ot name server for many years\, and is a member of Cogent's C-Root team. He
+  is a sysadmin for Op-Sec-Trust. Dr. Vixie has been contributing to Interne
+ t protocols and UNIX systems as a protocol designer and software architect 
+ since 1980. He wrote Cron (for BSD and Linux)\, and is considered the prima
+ ry author and technical architect of BIND 4.9 and BIND 8\, and he hired man
+ y of the people who wrote BIND 9. He has authored or co-authored a dozen or
+  so RFCs\, mostly on DNS and related topics\, and of Sendmail: Theory and P
+ ractice (Digital Press\, 1994). His technical contributions include DNS Res
+ ponse Rate Limiting (RRL)\, DNS Response Policy Zones (RPZ)\, and Network T
+ elemetry Capture (NCAP). He earned his Ph.D. from Keio University for work 
+ related to DNS and DNSSEC\, and was named to the Internet Hall of Fame in 2
+ 014.\n\nTwitter: @paulvixie\nLinkedIn
+LAST-MODIFIED:20160804T163936Z
+LOCATION:Track 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Frontrunning the Frontrunners
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T200000Z
+DTEND:20160805T210000Z
+DTSTAMP:20160807T164603Z
+UID:7vlkmru91q2qke28f3qfgtpvf4@google.com
+CREATED:20160804T164521Z
+DESCRIPTION:Tom Kopchak Director of Technical Operations\, Hurricane Labs\n
+ \nSolid state drives drives are fundamentally changing the landscape of the
+  digital forensics industry\, primarily due to the manner in which they res
+ pond to the deletion of files. Previous research has demonstrated that SSDs
+  do not always behave in an equivalent manner to magnetic hard drives\, how
+ ever\, the scope of these differences and the conditions that lead to this 
+ behavior are still not well understood. This basic\, undeniable anomaly reg
+ arding file storage and recovery begs one simple\, yet critical question: c
+ an the data being mined for evidence be trusted?\n\nThis talk presents rese
+ arch on the forensic implications of SSDs from one of the most comprehensiv
+ e studies to date. The goal of this study was to demonstrate and quantify d
+ ifferences across a sample pool of drives in an array of tests conducted in
+  a controlled environment. These tests explored the variations between driv
+ e firmware\, controllers\, interfaces\, operating systems\, and TRIM state.
+ \n\nFurther observations revealed that some drives behaved nearly identical
+  to the control drive\, while others showed that the prospects of recoverin
+ g deleted data was significantly reduced. This presentation will demonstrat
+ e these differences and provide a framework to allow forensics investigator
+ s to determine the likelihood of successful deleted file recovery from an e
+ vidence bearing solid state drive.\n\nTom Kopchak is the Director of Techni
+ cal Operations at Hurricane Labs\, where he pretends to manage a team of ne
+ twork and system engineers\, but is still an engineer and technology geek a
+ t heart. While new to the DEF CON stage\, Tom’s speaking experience include
+ s numerous talks on breaking full disk encryption (including BSides LV) and
+  numerous other talks at other conferences around the country. He holds a M
+ aster’s degree in Computing Security from the Rochester Institute of Techno
+ logy. When he is not working with computers\, Tom enjoys composing\, music 
+ improvisation (Acts of Music)\, and playing both the piano and organ.\n\nTw
+ itter: @tomkopchak
+LAST-MODIFIED:20160804T164521Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:101 Sentient Storage - Do SSDs Have a Mind of Their Own?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T210000Z
+DTEND:20160805T220000Z
+DTSTAMP:20160807T164603Z
+UID:o2tvdjrcdofn1eccne5mabnmno@google.com
+CREATED:20160804T164645Z
+DESCRIPTION:Radia Perlman EMC Fellow\n\nOften distributed systems are consi
+ dered robust if one of the components halts. But a failure mode that is oft
+ en neglected is when a component continues to operate\, but incorrectly. Th
+ is can happen due to malicious intentional compromise\, or simple hardware 
+ faults\, misconfiguration\, or bugs. Unfortunately\, there is no single add
+ -on to designs that will fix this case. This talk presents three very diffe
+ rent systems and how they each handle resilience despite malicious particip
+ ants. The problems\, and the solutions\, are very different. The important 
+ message of this talk is that there is no one solution\, and that this case 
+ must be considered in designs.\n\nRadia Perlman is a Fellow at EMC. She has
+  made many contributions to the fields of network routing and security prot
+ ocols including robust and scalable network routing\, spanning tree bridgin
+ g\, storage systems with assured delete\, and distributed computation resil
+ ient to malicious participants. She wrote the textbook Interconnections \, 
+ and cowrote the textbook Network Security. She holds over 100 issued patent
+ s. She has received numerous awards including lifetime achievement awards f
+ rom ACM's SIGCOMM and Usenix\, election to National Academy of Engineering\
+ , induction into the Internet Hall of Fame\, and induction into the Invento
+ r Hall of Fame. She has a PhD from MIT.
+LAST-MODIFIED:20160804T164645Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How to Design Distributed Systems Resilient Despite Malicious Parti
+ cipants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T210000Z
+DTEND:20160805T220000Z
+DTSTAMP:20160807T164603Z
+UID:vptj6hrk0i4gppgr49emqhg5mk@google.com
+CREATED:20160804T164906Z
+DESCRIPTION:Ang Cui PHD\, CEO & Chief Scientist\, Red Balloon Security\nJat
+ in Kataria Principal Research Scientist\, Red Balloon Security\nFrancois Ch
+ arbonneau Research Scientist\, Red Balloon Security\n\nThere are multiple x
+ 86 processors in your monitor! OSD\, or on-screen-display controllers are u
+ biquitous components in nearly all modern monitors. OSDs are typically used
+  to generate simple menus on the monitor\, allowing the user to change sett
+ ings like brightness\, contrast and input source. However\, OSDs are effect
+ ively independent general-purpose computers that can: read the content of t
+ he screen\, change arbitrary pixel values\, and execute arbitrary code supp
+ lied through numerous control channels. We demonstrate multiple methods of 
+ loading and executing arbitrary code in a modern monitor and discuss the se
+ curity implication of this novel attack vector. \n\nWe also present a thoro
+ ugh analysis of an OSD system used in common Dell monitors and discuss atta
+ ck scenarios ranging from active screen content manipulation and screen con
+ tent snooping to active data exfiltration using Funtenna-like techniques. W
+ e demonstrate a multi-stage monitor implant capable of loading arbitrary co
+ de and data encoded in specially crafted images and documents through activ
+ e monitor snooping. This code infiltration technique can be implemented thr
+ ough a single pixel\, or through subtle variations of a large number of pix
+ els. We discuss a step-by-step walk-through of our hardware and software re
+ verse-analysis process of the Dell monitor. We present three demonstrations
+  of monitoring exploitation to show active screen snooping\, active screen 
+ content manipulation and covert data exfiltration using Funtenna. \n\nLastl
+ y\, we discuss realistic attack delivery mechanisms\, show a prototype impl
+ ementation of our attack using the USB Armory and outline potential attack 
+ mitigation options. We will release sample code related to this attack prio
+ r to the presentation date.\n\nDr. Ang Cui is the Founder and Chief Scienti
+ st of Red Balloon Security. Dr. Cui received his PhD from Columbia Universi
+ ty in 2015. His doctoral dissertation\, titled "Embedded System Security: A
+  Software-based Approach"\, focused exclusively on scientific inquiries con
+ cerning the exploitation and defense embedded systems. Ang has focused on d
+ eveloping new technologies to defend embedded systems against exploitation.
+  During the course of his research\, he has uncovered a number of serious v
+ ulnerabilities within ubiquitous embedded devices like Cisco routers\, HP p
+ rinters and Cisco IP phones. Dr. Cui is also the author of FRAK and the inv
+ entor of Software Symbiote technology. Ang has received various awards on h
+ is work on reverse engineering commercial devices and is also the recipient
+  of the Symantec Graduate Fellowship and was selected as a DARPA Riser in 2
+ 015.\n\nJatin Kataria is a Principal Research Scientist at Red Balloon Secu
+ rity. His research focus is on the defense and exploitation of embedded dev
+ ices. Jatin earned his master’s degree from Columbia University and a bache
+ lor’s degree from Delhi College of Engineering. Previously\, he has worked 
+ as a System Software Developer at NVIDIA and as an Associate Software Engin
+ eer at Mcafee.\n\nFrancois Charbonneau is a embedded security researcher wh
+ o spent the better part of his career working for the Canadian government u
+ ntil he got lost and wondered into New York City. He now works as a researc
+ h scientist for Red Balloon Security where he lives a happy life\, trying t
+ o make the world a more secure place\, one embedded device at a time.
+LAST-MODIFIED:20160804T164906Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A Monitor Darkly: Reversing and Exploiting Ubiquitous On-Screen-Dis
+ play Controllers in Modern Monitors
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T220000Z
+DTEND:20160805T230000Z
+DTSTAMP:20160807T164603Z
+UID:csc40kq7v7srm9d6ruvml898o8@google.com
+CREATED:20160804T165311Z
+DESCRIPTION:Sebastian Westerhold KF5OBS\n\nThis talk is exposing critical f
+ laws in navigational aides\, secondary surveillance radar\, the Traffic Col
+ lision Avoidance System (TCAS) and other aviation related systems. The audi
+ ence will gain insight into the inner workings of these systems and how the
+ se systems can be exploited. Several practical demonstrations on portable a
+ vionics will show just how easy it is to execute these exploits in real lif
+ e.\n\nSebastian Westerhold\, better known under his FCC assigned radio call
+ -sign KF5OBS\, is a well known electrical engineer with a general interest 
+ in security analysis and penetration testing. As a teenager\, he has been w
+ riting articles for the leading German electronics Magazine FUNKAMATEUR and
+  the leading European magazine Elektor. Today\, his blog and YouTube channe
+ l attract electronics enthusiasts from all over the world.
+LAST-MODIFIED:20160804T165311Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How to Remote Control an Airliner: Security Flaws in Avionics
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T220000Z
+DTEND:20160805T230000Z
+DTSTAMP:20160807T164603Z
+UID:ct45ub28ch1uhqd6qcvc4a5srk@google.com
+CREATED:20160804T165817Z
+DESCRIPTION:\nTim ‘t0rch’ Estell Solution Architect\, BAE Systems\nKatea Mu
+ rray Cyber Researcher\, Leidos\n\nAfter the Rise of the Machines they'll ne
+ ed to communicate. And we'll need to listen in. The problem is that proprie
+ tary protocols are hard to break. If Wireshark barfs then we're done. Or ca
+ n we listen in\, break their Robot Overlord messages and spill it all to th
+ e meat-space rebels? Attend this talk to learn techniques for taking networ
+ k data\, identifying unknown protocols\, and breaking them down to somethin
+ g you can exploit. Rebels unite!\n\nTim Estell\, a hacker since learning ho
+ w to mod a TRS-80 game in the ‘80s. Since then he’s reversed protocols\, le
+ veraged hardware\, and managed teams for many concepts of operation. He rem
+ ains convinced machines will never exceed meat space innovation and so welc
+ omes our new Robot Overlords\, if only because their cause is lost. Rebels 
+ unite! \n\nKatea Murray\, a programmer who turned to hacking in the early 0
+ 0’s\, she’s reversed and co-opted many tools and toys consumer’s touch\, fr
+ om old-school boat anchors to the latest mobile devices. Along the way she’
+ s pulled recruits to the rebel cause through internships\, outreach\, and h
+ igh energy. When she’s not watching sports she’s hacking as a sport. Game o
+ n!
+LAST-MODIFIED:20160804T165826Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eavesdropping on the Machines
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T220000Z
+DTEND:20160805T230000Z
+DTSTAMP:20160807T164603Z
+UID:8fj0q0663muhgvkee7p8ekn7ps@google.com
+CREATED:20160804T165722Z
+DESCRIPTION:Jennifer S. Granick Director of Civil Liberties\, Stanford Cent
+ er for Internet and Society\n\nIs the Internet going to live up to its prom
+ ise as the greatest force for individual freedom that the world has ever kn
+ own? Or is the hope for a global community of creative intellectual interac
+ tion lost…for now?\n\nIn last year’s Black Hat keynote—entitled "Lifecycle 
+ of a Revolution"—noted privacy and civil liberties advocate Jennifer Granic
+ k told the story of the Internet utopians\, people who believed that Intern
+ et technology could greatly enhance creative and intellectual freedom. Gran
+ ick argued that this Dream of Internet Freedom was dying\, choked off by ma
+ rket and government forces of centralization\, regulation\, and globalizati
+ on. The speech was extremely popular. Almost 8000 people watched it at Blac
+ k Hat. It was retweeted\, watched and read by tens of thousands of people. 
+ Boing Boing called it "the speech that won Black Hat (and DEF CON )."\n\nTh
+ is year\, Granick revisits the state of the Internet Dream. This year’s cry
+ pto war developments in the U.S. and U.K. show governments’ efforts to cont
+ rol the design of technologies to ensure surveillance. The developments als
+ o show that governments see app stores as a choke point for regulation and 
+ control\, something that couldn’t easily happen with general purpose comput
+ ers and laptops but which could be quite effective in a world where most pe
+ ople access the network with mobile devices.\n\nAlso in the past year\, the
+  European Court of Justice embraced blocking orders and ISP liability in th
+ e name of stopping copyright infringement\, privacy violations\, and unflat
+ tering comments from ever being published online. The effect of these devel
+ opments is to force Internet companies to be global censors on the side of 
+ online civility against the free flow of information and opinion. If we wan
+ t to realize some of the promise of the Internet utopian vision\, we are go
+ ing to have to make some hard political choices and redesign communications
+  technology accordingly. The future could look a lot like TV\, or we could 
+ work to ensure our technology enshrines individual liberties. This talk wil
+ l help attendees join that effort.\n\nIn 1995\, Jennifer Granick attended h
+ er first DEF CON at the Tropicana Hotel. Since then\, she has defended hack
+ ers and coders in computer crime\, copyright\, DMCA and other cases. Jennif
+ er left her criminal law practice in 2001 to help start the Stanford Center
+  for Internet and Society (CIS). From 2001 to 2007\, Jennifer was Executive
+  Director of CIS and taught Cyberlaw\, Computer Crime Law\, Internet interm
+ ediary liability\, and Internet law and policy. From 2008 to 2010\, Jennife
+ r worked with the boutique firm of Zwillgen PLLC and as Civil Liberties Dir
+ ector at the Electronic Frontier Foundation. Today\, Jennifer has returned 
+ to CIS as Director of Civil Liberties. She teaches\, practices\, speaks\, a
+ nd writes about computer crime and security\, electronic surveillance\, tec
+ hnology\, privacy\, and civil liberties. She earned her law degree from Uni
+ versity of California\, Hastings College of the Law and her undergraduate d
+ egree from the New College of Florida.\n\nTwitter: @granick \nMedium\nCente
+ r for Internet and Society\nJust Security
+LAST-MODIFIED:20160804T165841Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Slouching Towards Utopia: The State of the Internet Dream
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T230000Z
+DTEND:20160805T233000Z
+DTSTAMP:20160807T164603Z
+UID:gvpg00t8lum06rtbppkpbimfqo@google.com
+CREATED:20160804T170111Z
+DESCRIPTION:Plore Hacker\n\nElectronic locks are becoming increasingly comm
+ on on consumer-grade safes\, particularly those used to secure guns. This t
+ alk explores vulnerabilities of several UL-listed Type 1 "High Security" el
+ ectronic safe locks. Using side-channel attacks\, we recover the owner-conf
+ igured keycodes on two models of these locks from outside of locked safes w
+ ithout any damage to the locks or safes. Discussion includes power-line ana
+ lysis\, timing attacks\, and lockout-defeat strategies on embedded devices.
+ \n\nAn embedded software developer with a background in electrical engineer
+ ing\, Plore has long been fascinated by computer security and locks. One da
+ y he found himself wondering if the trust bestowed on electronic locks was 
+ actually misplaced. He decided to investigate.
+LAST-MODIFIED:20160804T170824Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Side-channel Attacks on High-security Electronic Safe Locks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T233000Z
+DTEND:20160806T000000Z
+DTSTAMP:20160807T164603Z
+UID:s91s95egrs8asusvt3hkm72oc8@google.com
+CREATED:20160804T170852Z
+DESCRIPTION:Salvador Mendoza Student & Researcher\n\nSamsung announced many
+  layers of security to its Pay app. Without storing or sharing any type of 
+ user's credit card information\, Samsung Pay is trying to become one of the
+  securest approaches offering functionality and simplicity for its customer
+ s.\n\nThis app is a complex mechanism which has some limitations relating s
+ ecurity. Using random tokenize numbers and implementing Magnetic Secure Tra
+ nsmission (MST) technology\, which do not guarantee that every token genera
+ ted with Samsung Pay would be applied to make a purchase with the same Sams
+ ung device. That means that an attacker could steal a token from a Samsung 
+ Pay device and use it without restrictions.\n\nInconvenient but practical i
+ s that Samsung's users could utilize the app in airplane mode. This makes i
+ mpossible for Samsung Pay to have a full control process of the tokens pile
+ . Even when the tokens have their own restrictions\, the tokenization proce
+ ss gets weaker after the app generates the first token relating a specific 
+ card.\n\nHow random is a Spay tokenized number? It is really necessary to u
+ nderstand how the tokens heretically share similarities in the generation p
+ rocess\, and how this affect the end users' security.\n\nWhat are the odds 
+ to guess the next tokenized number knowing the previous one?\n\nSalvador Me
+ ndoza is a college student & researcher.\n\n@netxing\nKeybase.io: http://ke
+ ybase.io/salvador
+LAST-MODIFIED:20160804T170852Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Samsung Pay: Tokenized Numbers\, Flaws and Issues
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160805T233000Z
+DTEND:20160806T003000Z
+DTSTAMP:20160807T164603Z
+UID:rk02a07dc19lqht39t060mu0n8@google.com
+CREATED:20160804T170800Z
+DESCRIPTION:\nKor Adana Writer & Technical Supervisor\, MR. ROBOT\nDark Tan
+ gent Founder\, DEF CON\nMarc Rogers \nRyan Kazanciyan Chief Security Archit
+ ect\, Tanium\nAndre McGregor Director of Security\, Tanium\nKim Zetter Seni
+ or Staff Reporter\, Wired\n\nMR. ROBOT is a rare treat - a network televisi
+ on show whose hacker protagonist is a fully realized character with a reali
+ stically attainable set of skills. No hyper-typing\, no gibberish masquerad
+ ing as tech jargon\, no McGuffins to magically paper over plot holes with h
+ acker dust. MR. ROBOT takes the tech as seriously as the drama. \n\nOne of 
+ the main reasons for this verisimilitude is the work of Kor Adana\, MR. ROB
+ OT's advisor on all things hackish. His fingerprints are on every terminal 
+ window in the show. Another advisor to the show is our very own CJunky - kn
+ own to the outside world as hacker and raconteur Marc Rogers. Join Dark Tan
+ gent for a panel discussion of MR. ROBOT: the phenomenon\, the hacks and th
+ e crazy ways the show seems to pull its storylines from the future. Bring y
+ our questions\, and keep an eye out for late-breaking special guests.\n\nKo
+ r Adana’s interest in technology started as a child when he tried to build 
+ a red box to get free calls on pay phones. By the time he was in middle sch
+ ool\, he was building his own computer systems and getting into trouble. Af
+ ter obtaining a B.S. in IT Network Administration\, Kor went on to work in 
+ enterprise network security for one of the world’s largest automakers. He p
+ erformed penetration testing\, designed security policies\, managed enterpr
+ ise-wide eDiscovery\, and conducted forensics for legal and HR matters. Whi
+ le there\, he also worked alongside NASA in a high-profile government inves
+ tigation. He eventually left the IT world to pursue his true passion\, writ
+ ing for film and television. He’s worked with the producers of THE WALKING 
+ DEAD\, THE SHIELD\, LOST\, and DEXTER. He is currently a writer and technic
+ al supervisor for USA's Golden Globe Award-winning drama\, MR. ROBOT. He al
+ so has one of his own projects in development with Universal Cable Producti
+ ons.\n\nRyan Kazanciyan is the Chief Security Architect for Tanium and has 
+ thirteen years of experience in incident response and forensics\, penetrati
+ on testing\, and security architecture. Prior to joining Tanium\, Ryan was 
+ a technical director and lead investigator at Mandiant\, where he worked wi
+ th dozens of Fortune 500 organizations impacted by targeted attacks.\n\nRya
+ n has presented security research at dozens of events worldwide\, including
+  Black Hat\, DEFCON\, and RSA. He has led training sessions for hundreds of
+  the FBI's cyber squad agents\, and was a contributing author for "Incident
+  Response and Computer Forensics\, 3rd Edition"\, published in 2014.\n\nAnd
+ re McGregor is at DEFCON 24 celebrating his one-year anniversary as Tanium’
+ s Director of Security responsible for internal cybersecurity. Prior to joi
+ ning Tanium\, Andre was a fresh-faced new agent with the FBI working cases 
+ like the NYC Subway bomber and Times Square car bomb while arresting his sh
+ are of Italian Organized Crime bosses. His computer engineering background 
+ led him to help form FBI New York’s first cyber national security squad foc
+ used on computer intrusions from China\, Russia\, and Iran. Having deployin
+ g with NSA Blue Team and DHS US-CERT/ICS-CERT as a technically-trained cybe
+ r agent\, Andre has led numerous large-scale cyber investigations ranging f
+ rom financial crimes to critical infrastructure protection. In his free tim
+ e\, when he wasn’t sifting through terabytes of Netflow with SiLK and playi
+ ng around with Autopsy and IDA\, Andre was an FBI firearms instructor\, div
+ e team medic\, and a volunteer firefighter driving fire trucks. After gradu
+ ating from Brown University\, Andre worked as an engineer at Goldman Sachs 
+ and later transitioned to IT Director at Cardinal Health/Advogent. Having s
+ hed the badge and gun last year\, Andre currently serves as the FBI cyber t
+ echnical consultant for the TV show Mr. Robot.\n\nKim Zetter is an award-wi
+ nning\, senior staff reporter at Wired covering cybercrime\, privacy\, and 
+ security. She is writing a book about Stuxnet\, a digital weapon that was d
+ esigned to sabotage Iran's nuclear program.\n\nDark Tangent & Marc Rogers B
+ ios to come
+LAST-MODIFIED:20160804T170918Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MR. ROBOT Panel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T000000Z
+DTEND:20160806T010000Z
+DTSTAMP:20160807T164603Z
+UID:obc6stoeppg1n0i8svofdk3h78@google.com
+CREATED:20160804T171018Z
+DESCRIPTION:Weston Hecker Senior Security Engineer & Pentester\, Rapid7\n\n
+ MV (Chip & Pin) card ATM's are taking over the industry with the deadlines 
+ passed and approaching the industry rushes ATM's to the market. Are they mo
+ re secure and hack proof? Over the past year I have worked at understanding
+  and breaking the new methods that ATM manufactures have implemented on pro
+ duction ‘Next Generation’ Secure ATM systems. This includes bypassing Anti-
+ skimming/Anti-Shimming methods introduced to the latest generation ATM's. a
+ long with NFC long range attack that allows real-time card communication ov
+ er 400 miles away. This talk will demonstrate how a $2000-dollar investment
+  criminals can do unattended ‘cash outs’ touching also on failures of the p
+ ast with EMV implementations and how credit card data of the future will mo
+ st likely be sold with the new EMV data having such a short life span. \n\n
+ With a rise of the machines theme demonstration of ‘La-Cara’ and automated 
+ Cash out machine that works on Current EMV and NFC ATM's it is an entire fa
+ scia Placed on the machine to hide the auto PIN keyboard and flash-able EMV
+  card system that is silently withdrawing money from harvested card data. T
+ his demonstration of the system can cash out around $20\,000/$50\,000 in 15
+  min.\n\n11 Years Pen-testing\, 12 years’ security research and programming
+  experience. Working for a security Company in the Midwest Weston has recen
+ tly Spoken at DEF CON 22 & 23\, Black Hat USA 2016\, Enterprise Connect 201
+ 6 ISC2-Security Congress\, SC-Congress Toronto\, HOPE11\, BSIDES Boston and
+  over 50 other speaking engagements from telecom Regional events to Univers
+ ity’s on security subject matter. Working with A Major University's researc
+ h project with Department of Homeland Security on 911 emergency systems and
+  attack mitigation. Attended school in Minneapolis Minnesota. Computer Scie
+ nce and Geophysics. Found several vulnerabilities’ in very popular software
+  and firmware. Including Microsoft\, Qualcomm\, Samsung\, HTC\, Verizon.
+LAST-MODIFIED:20160804T171018Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hacking Next-Gen ATM's From Capture to Cashout
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T170000Z
+DTEND:20160806T180000Z
+DTSTAMP:20160807T164603Z
+UID:6rb7nab7nrf9mjqq447if0uti4@google.com
+CREATED:20160804T172010Z
+DESCRIPTION:How to Overthrow a Government\nChris Rock Founder and CEO\, Kus
+ todian\n\nDirect from the mind of the guy who bought you the "I will kill y
+ ou" presentation at DEF CON 23\, is another mind bending\, entertaining tal
+ k. This time it’s bigger and badder than before.\n\nAre you sick and tired 
+ of your government? Can’t wait another 4 years for an election? Or do you w
+ ant to be like the CIA and overthrow a government overseas for profit or fu
+ n? If you answered yes to one or more of these questions than this talk is 
+ for you! Why not create your own cyber mercenary unit and invoke a regime c
+ hange to get the government you want installed? After all\, if you want the
+  job done right\, sometimes you have to do it yourself. \n\nFind out how ov
+ er the last 60 years\, governments and resource companies have been directl
+ y involved in architecting regime changes around world using clandestine me
+ rcenaries to ensure deniability. This has been achieved by destabilizing th
+ e ruling government\, providing military equipment\, assassinations\, finan
+ cing\, training rebel groups and using government agencies like the CIA\, M
+ ossad and MI-5 or using foreign private mercenaries such as Executive Order
+  and Sandline. Working with Simon Mann an elite ex SAS soldier turned coup 
+ architect who overthrew governments in Africa\, Chris Rock will show you ho
+ w mercenary coup tactics directly applied to digital mercenaries to cause r
+ egime changes as the next generation of "Cyber Dogs of War". \n\nChris will
+  walk you through a cyber regime change from start to finish on a real coun
+ try and show you how to architect a coup achieving the same result as a tra
+ ditional mercenary operation without any blood spilt. This will include tak
+ ing ownership of all facets of government including finance\, telecommunica
+ tions\, transportation\, commercial companies and critical infrastructure s
+ uch a power\, water and oil. You will learn:\n• Traditional military mercen
+ ary coup tactics used by the infamous 32 Battalion in Africa\, Executive Or
+ der and Sandline that can be directly applied to a cyber mercenary regime c
+ hange.\n• How to architect a cyber coup using advisor’s\, hackers and the g
+ eneral populace\, using misinformation\, professional agitators\, false inf
+ ormation and financing.\n• How to gather intelligence to analyze a governme
+ nt’s systemic weaknesses on financial\, societal values and political clima
+ tes that is leader or country specific to structure your attack.\n• How to 
+ identify and prioritize government resources\, infrastructure and commercia
+ l companies and how to use these compromised assets to stage the coup.\n• C
+ ombine physical and digital techniques and have the best of both worlds to 
+ own a countries infrastructure.\n• Hot to manipulate the media using propag
+ anda targeting journalists flawed multiple "source" rules for a story.\n• T
+ he Grand finale of a cyber regime change on a real country from beginning t
+ o end using the above techniques with operational footage. Come to this tal
+ k and find out how you too can be your own dictator\, benevolent or mercile
+ ss that part is up to you.\n\nChris Rock presented "I will kill you" at DEF
+  CON 23 has been active in the security industry for the last 20 years and 
+ is the founder and CEO of Kustodian\, a specialized security company that s
+ pecializes in Security Operations Centres\, Penetration testing and indepen
+ dent research. Kustodian is an Australian\, Middle East and Hong Kong regis
+ tered company that has been operational for over 10 years. Chris has also s
+ pent 12 years in the banking sector and provides security services around t
+ he world for small\, medium and large companies. Chris Rock also created SI
+ EMonster\, an open source\, scalable\, free Security Incident and Event Man
+ agement (SIEM) as a commercial alternative to Splunk\, ArcSight and AlienVa
+ ult. SIEMonster can be run on Amazon AWS or Virtual machines and details ca
+ n be found on www.siemonster.com\n\nTwitter: @_kustodian_ \nFacebook
+LAST-MODIFIED:20160804T172010Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How to Overthrow a Government
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T170000Z
+DTEND:20160806T180000Z
+DTSTAMP:20160807T164603Z
+UID:rpal38dm4ge6l0i8a9lf2nafg0@google.com
+CREATED:20160804T172212Z
+DESCRIPTION:\nMarco Grassi KEENLAB of Tencent\nQidan He KEENLAB of Tencent\
+ n\nThe main topic of this technical talk will be "sandboxes" and how to esc
+ ape them. One of the main component of the modern operating systems securit
+ y is their sandbox implementation. Android for example in recent versions a
+ dded SELinux to their existing sandbox mechanism\, to add an additional lay
+ er of security. As well OS X recently added System Integrity Protection as 
+ a ‘system level’ sandbox\, in addition to the regular sandbox which is ‘per
+ -process’.\n\nAll modern OS focus on defense in depth\, so an attacker and 
+ a defender must know these mechanisms\, to bypass them or make them more se
+ cure. We will focus on Android and iOS/OSX to show the audience the impleme
+ ntations of the sandbox in these operating systems\, the attack surface fro
+ m within interesting sandboxes\, like the browser\, or applications sandbox
+ .\n\nThen we will discuss how to attack them and escape from our restricted
+  context to compromise further the system\, showcasing vulnerabilities. We 
+ think that comparing Android with iOS/OSX can be very interesting since the
+ ir implementation is different\, but the goal for attackers and defenders i
+ s the same\, so having knowledge of different sandboxes is very insightful 
+ to highlight the limitations of a particular implementation. The sandboxes 
+ some years ago were related mainly to our desktop\, mobile phone or tablet.
+  But if we look now at the technology trend\, with Automotive and IOT\, we 
+ can understand that sandboxes will be crucial in all those technologies\, s
+ ince they will run on mainstream operating system when they will become mor
+ e popular.\n\nMarco Grassi is currently a Senior Security Researcher of the
+  KEEN Lab of Tencent (previously known as KEEN Team). He was one of the mai
+ n contributors at Pwn2Own 2016 for the Safari target with sandbox escape to
+  root. He is a member of the team who won the title of ‘Master Of Pwn’ at P
+ wn2Own 2016. Formerly he was a member of NowSecure R&D Team\, where he rese
+ arched solutions for mobile security products and performed reverse enginee
+ ring\, pentesting and vulnerability research in mobile OS applications and 
+ devices. When he’s not poking around mobile devices\, he enjoys developing 
+ embedded and electronic systems. He has spoken at several international sec
+ urity conferences such as ZeroNights\, Black Hat\, Codegate\, HITB and cans
+ ecwest. \n\nTwitter: @marcograss \n\nQidan He (a.k.a Edward Flanker) is a s
+ ecurity researcher focusing on mobile security at KeenLab of Tencent (forme
+ r known as Keen Team). His major experience includes Android/iOS/OSX securi
+ ty and program analysis. He has reported several vulnerabilities in Android
+  system core components\, which were confirmed and credited in multiple adv
+ isories. He has also found multiple vulnerabilities in OSX kernel\, which a
+ re awaiting patch and credit. He is the winner of Pwn2Own 2016 OSX Category
+  and member of Master of Pwn Champion team. He has spoken at conferences li
+ ke Blackhat\, CanSecWest\, HITCON and QCON. \n\nTwitter: @flanker_hqd
+LAST-MODIFIED:20160804T172212Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Escaping The Sandbox By Not Breaking It
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T180000Z
+DTEND:20160806T190000Z
+DTSTAMP:20160807T164603Z
+UID:cstfm1n4p3205e5hgjli47vtb8@google.com
+CREATED:20160804T172656Z
+DESCRIPTION:Anthony Rose Hacker\nBen Ramsey\, Hacker\n\nMany Bluetooth Low 
+ Energy (BLE) enabled deadbolts and padlocks have hit the market recently. T
+ hese devices promise convenience and security through smartphone control. W
+ e investigated sixteen of these products from multiple vendors and discover
+ ed wireless vulnerabilities in most of them. Using a $50 antenna\, we succe
+ ssfully picked vulnerable locks from over 400 meters away. In this presenta
+ tion we introduce open source tools to crack each of the vulnerable BLE loc
+ ks. Furthermore\, after surveying the open source Bluetooth hacking tools c
+ urrently available\, we find very little support for BLE. So\, to make disc
+ overing and range finding to BLE devices easier\, we introduce a new open s
+ ource war-walking tool compatible with both Bluetooth Classic and BLE.\n\nA
+ nthony Rose is an electrical engineer with five years of network security e
+ xperience. His prior work includes traffic and quality optimization for wir
+ eless video protocols. Currently he focuses on Bluetooth security and wirel
+ ess penetration testing.\n\nBen Ramsey\, PhD\, CISSP\, has over a decade of
+  experience in network security research. His work focuses on critical infr
+ astructure protection and low power wireless protocols\, such as ZigBee\, Z
+ -Wave\, and Bluetooth Low Energy. He has published in several academic jour
+ nals and has presented research at multiple conferences\, including GLOBECO
+ M\, MILCOM\, SenseApp\, and ShmooCon.
+LAST-MODIFIED:20160804T172656Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Picking Bluetooth Low Energy Locks from a Quarter Mile Away
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T190000Z
+DTEND:20160806T193000Z
+DTSTAMP:20160807T164603Z
+UID:9suh1g8o96tiq53tgrrnhrcj4s@google.com
+CREATED:20160804T173057Z
+DESCRIPTION:Grant Bugher Perimeter Grid\n\nCommon hotspot software like Chi
+ lispot and Sputnik allow anyone to set up a restricted WiFi router or Ether
+ net network with a captive portal\, asking for money\, advertising\, or per
+ sonal information in exchange for access to the Internet. In this talk I ta
+ ke a look at how these and similar restrictive networks work\, how they ide
+ ntify and restrict users\, and how with a little preparation we can reach t
+ he Internet regardless of what barriers they throw up.\n\nGrant Bugher has 
+ been hacking and coding since the early 90's and working professionally in 
+ information security for the last 12 years. He is currently a security engi
+ neer for a cloud service provider\, and has previously been an architect\, 
+ program manager and software engineer on a variety of online services\, dev
+ eloper tools and platforms. Grant is a prior speaker at BlackHat and DEF CO
+ N and a regular DEF CON attendee since DEF CON 16. Most of his research and
+  work is on cloud computing and storage platforms\, application security\, 
+ and detecting & investigating attacks against web-scale applications.\n\nTw
+ itter: @fishsupreme. \nperimetergrid.com
+LAST-MODIFIED:20160804T173110Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bypassing Captive Portals and Limited Networks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T190000Z
+DTEND:20160806T200000Z
+DTSTAMP:20160807T164603Z
+UID:vgce9mhfcvodmq7akhlpcjqbeo@google.com
+CREATED:20160804T173704Z
+DESCRIPTION:Luke Young Information Security Engineer\, Hydrant Labs LLC\n\n
+ As bandwidth\, computing power\, and software advancements have improved ov
+ er the years\, we've begun to see larger and larger DDoS attacks against or
+ ganizations. Often times these attacks employ techniques such as DNS Amplif
+ ication to take advantage of servers with very large uplinks. This talk exp
+ lores a similar technique targeting commonly used throughput testing softwa
+ re typically running on very large uplinks. We will explore the process of 
+ attacking this software\, eventually compromising it and gaining root acces
+ s. Then we'll explore some of these servers in the real world determining t
+ he size of their uplinks and calculating the total available bandwidth at o
+ ur fingertips all from a $5 VPS. We will finish up the presentation with a 
+ live demo exploiting an instance and launching a DoS.\n\nLuke Young is a se
+ curity researcher from the frozen plains of Minnesota who has spent his las
+ t three summers escaping to the much warmer Bay Area as a security intern f
+ or various tech companies\, most recently as part of the Uber product secur
+ ity team. He presented at DEF CON 23 on the topic of exploiting bitflips in
+  memory and has investigated a variety of well-known products and network p
+ rotocols resulting in numerous CVE assignments and recognition in security 
+ Hall of Fames. He is currently attempting to balance earning his undergradu
+ ate degree with maintaining his position as one of the top 10 researchers o
+ n Bugcrowd.
+LAST-MODIFIED:20160804T173704Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T193000Z
+DTEND:20160806T200000Z
+DTSTAMP:20160807T164603Z
+UID:lsa57g4sh75aupl33ucc8o9kic@google.com
+CREATED:20160804T173736Z
+DESCRIPTION:Hunter Scott Hacker\n\nIn this talk\, I'll share how I won 4 Tw
+ itter contests per day\, every day\, for 9 months straight. I'll discuss th
+ e methods I used\, the delightfully random and surprising things I won\, an
+ d how to run a Twitter contest to prevent people like me from winning.\n\nH
+ unter Scott is an electrical and computer engineer with over 7 years of exp
+ erience designing and implementing hardware systems. He has lead electrical
+  development on a variety of projects\, from robotics to communication syst
+ ems. He has experience in improvising and quickly building prototype and pr
+ oof of concept designs as well as implementing mission critical\, high reli
+ ability designs. He has a degree in computer engineering from Georgia Tech 
+ and is currently working at a startup you've never heard of (yet!). His wor
+ k has been featured in publications such as Gizmodo\, Quartz\, Engadget\, C
+ NN\, The Chicago Tribune\, The Guardian\, and NPR. His other projects can b
+ e seen at hscott.net.\n\nTwiter: @hunterscott
+LAST-MODIFIED:20160804T173736Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Retweet to Win: How 50 lines of Python made me the luckiest guy on 
+ Twitter
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T193000Z
+DTEND:20160806T200000Z
+DTSTAMP:20160807T164603Z
+UID:0l6bj4qeal30pu0b1655f32nv4@google.com
+CREATED:20160804T173809Z
+DESCRIPTION:Brad Dixon\, Hacker\n\nSecurity assessments of embedded and IoT
+  devices often begin with testing how an attacker could recover firmware fr
+ om the device. When developers have done their job well you'll find JTAG lo
+ cked-up\, non-responsive serial ports\, locked-down uboot\, and perhaps eve
+ n a home brewed secure-boot solution. In this session you'll learn details 
+ of a useful hardware/software penetration technique to attempt when you've 
+ run out of easier options. We've used this technique on two commercial devi
+ ce security assessments successfully and have refined the technique on a se
+ ries of test devices in the lab. This session will cover the prerequisites 
+ for successful application of the technique and give you helpful hints to h
+ elp your hack! Best of all this technique\, while a bit risky to the hardwa
+ re\, is easy to try and doesn't require specialized equipment or hardware m
+ odification. We are going to take pieces of metal and stab them at the hear
+ t of the hardware and see what happens. For the hardware/firmware developer
+  you'll get a checklist that you can use to reduce your vulnerability to th
+ is sort of attack.\n\nBrad Dixon once told his parents that if they gave hi
+ m a Commodore 64 it would be the last computer he'd ever want. He never got
+  that Commodore 64. Nevertheless Brad managed to become a computer nerd at 
+ a young age. Brad studied Computer Engineering at Georgia Tech and jumped i
+ nto embedded software engineering. He worked for many years helping develop
+ ers to design embedded Linux into telecom\, network\, and mobile products. 
+ Brad also took a turn as a product manager for embedded development tools a
+ nd a mobile location analytics product. At Carve Systems he hacks IoT\, emb
+ edded\, and Linux systems.
+LAST-MODIFIED:20160804T173809Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:pin2pwn: How to Root an Embedded Linux Box with a Sewing Needle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T200000Z
+DTEND:20160806T210000Z
+DTSTAMP:20160807T164603Z
+UID:kjsksg149l5pngs3ba92is82d0@google.com
+CREATED:20160804T174009Z
+DESCRIPTION:CINCVolFLT (Trey Forgety) Director of Government Affairs & IT N
+ inja\, NENA: The 9-1-1 Association\nAK3R303 (Alex Kreilein) CTO & Co-Founde
+ r\, SecureSet\n\nFor 48 years\, 9-1-1 has been /the/ emergency telephone nu
+ mber in the United States. It's also been mired in 48-year-old technology. 
+ So let's just put that on the internet\, right? What could possibly go wron
+ g? Without the radical segmentation of the PSTN\, the move to IP networks (
+ even the private\, managed kind) will bring new 9-1-1 capabilities AND new 
+ vulnerabilities. This talk builds on the work of quaddi\, r3plicant\, and P
+ eter Hefley (see &lquo\;Hacking 911: Adventures in Destruction\, Disruption
+ \, and Death\,&rquo\; DEF CON 22\, http://ow.ly/10AvZh). It provides an ove
+ rview of NG9-1-1 architecture and security concerns\, and identifies critic
+ al attack surfaces that Public Safety Answering Points need to monitor and 
+ secure. Familiarity with NENA's i3 and NG-SEC standards may be helpful\, bu
+ t is not required.\n\nCINCVolFLT (Trey Forgety) is Director of Government A
+ ffairs for NENA: The 9-1-1 Association. He previously served as a President
+ ial Management Fellow in the U.S. Department of Homeland Security's Office 
+ of Emergency Communications\, with rotations in the Federal Communications 
+ Commission's Public Safety and Homeland Security Bureau\, and the U.S. Depa
+ rtment of Commerce's National Telecommunications and Information Administra
+ tion. A sometimes-piratical sailor and inveterate tinkerer\, CINCVolFLT's r
+ ecent activities have included work on establishing a backup timing source 
+ for telecom networks to ensure service during GPS outages or jammin\, and s
+ erving as pro bono counsel to QueerCon.He holds a B.S. in Applied Physics a
+ nd a J.D.\, both from the University of Tennessee (GO VOLS!). \n\nTwitter: 
+ @cincvolflt \n\nAK3R303 (Alex Kreilein) is Managing Partner and CTO of Secu
+ reSet\, which is a cybersecurity services provider specializing in educatio
+ n and startup acceleration. Previously\, AK3R303 was a Technology Strategis
+ t with the U.S. Department of Homeland Security and a Guest Researcher at t
+ he National Institute of Standards and Technology focusing on public safety
+  and mobile communications network security. He holds a B.A. from Fordham U
+ niversity where he studied nuclear game theory through the political scienc
+ e department in Beijing\, China. He holds an M.A. in National Security & St
+ rategic Studies from the US Naval War College\, and is an M.S. / Ph.D. cand
+ idate at the CU Boulder College of Engineering & Applied Sciences in Teleco
+ m Engineering.\n\nTwitter: @ak3r303
+LAST-MODIFIED:20160804T174009Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NG9-1-1: The Next Generation of Emergency Ph0nage
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T210000Z
+DTEND:20160806T220000Z
+DTSTAMP:20160807T164603Z
+UID:lh8ceed27btdkffav1vrtjk59g@google.com
+CREATED:20160804T174359Z
+DESCRIPTION:\nBrian Gorenc Senior Manager\, Trend Micro Zero Day Initiative
+  \nFritz Sands Security Researcher\, Trend Micro Zero Day Initiative\n\nOve
+ r the last year\, synchronized and coordinated attacks against critical inf
+ rastructure have taken center stage. Remote cyber intrusions at three Ukrai
+ nian regional electric power distribution companies in December 2015 left a
+ pproximately 225\,000 customers without power. Malware\, like BlackEnergy\,
+  is being specially developed to target supervisory control and data acquis
+ ition (SCADA) systems. Specifically\, adversaries are focusing their effort
+ s on obtaining access to the human-machine interface (HMI) solutions that a
+ ct as the main hub for managing the operation of the control system. Vulner
+ abilities in these SCADA HMI solutions are\, and will continue to be\, high
+ ly valuable as we usher in this new era of software exploitation. This talk
+  covers an in-depth analysis performed on a corpus of 200+ confirmed SCADA 
+ HMI vulnerabilities. It details out the popular vulnerability types discove
+ red in HMI solutions developed by the biggest SCADA vendors\, including Sch
+ neider Electric\, Siemens\, General Electric\, and Advantech. It studies th
+ e weaknesses in the technologies used to develop HMI solutions and describe
+ s how critical vulnerabilities manifest in the underlying code. The talk wi
+ ll compare the time-to-patch performance of various SCADA vendors along wit
+ h a comparison of the SCADA industry to the rest of the software industry. 
+ Finally\, using the data presented\, additional guidance will be provided t
+ o SCADA researchers along with a prediction on what we expect next in attac
+ ks that leverage SCADA HMI vulnerabilities.\n\nBrian Gorenc is the senior m
+ anager of Vulnerability Research with Trend Micro. In this role\, Gorenc le
+ ads the Zero Day Initiative (ZDI) program\, which represents the world’s la
+ rgest vendor-agnostic bug bounty program. His focus includes analyzing and 
+ performing root-cause analysis on hundreds of zero-day vulnerabilities subm
+ itted by ZDI researchers from around the world. The ZDI works to expose and
+  remediate weaknesses in the world’s most popular software. Brian is also r
+ esponsible for organizing the ever-popular Pwn2Own hacking competitions.\n\
+ nTwitter: @thezdi\, @maliciousinput \n\nFritz Sands is a security researche
+ r with Trend Micro's Zero Day Initiative. In this role\, he analyzes and pe
+ rforms root-cause analysis on vulnerabilities submitted to the ZDI program\
+ , which is the world's largest vendor-agnostic bug bounty program. Fritz al
+ so focuses on writing tools to perform static and dynamic analysis for disc
+ overing vulnerabilities. Prior to joining the ZDI in 2014\, Sands was in Mi
+ crosoft's Trustworthy Computing and Secure Windows Initiative operations wh
+ ere he audited Windows code and developed dynamic analysis tools\, and befo
+ re that he was a system developer for multiple iterations of Microsoft Wind
+ ows. \n\nTwitter: @FritzSands\nwww.zerodayinitiative.com
+LAST-MODIFIED:20160804T174359Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hacker-Machine Interface - State of the Union for SCADA HMI Vulnera
+ bilities
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T210000Z
+DTEND:20160806T220000Z
+DTSTAMP:20160807T164603Z
+UID:blb6s859pbjb5tcgkqvkmo0qdk@google.com
+CREATED:20160804T174444Z
+DESCRIPTION:Rogan Dawes Researcher\, Sensepost\nDominic White CTO\, SensePo
+ st\n\nIn this talk\, we’ll cover some novel USB-level attacks\, that can pr
+ ovide remote command and control of\, even air-gapped machines\, with a min
+ imal forensic footprint\, and release an open-source toolset using freely a
+ vailable hardware.\n\nIn 2000\, Microsoft published its 10 Immutable laws o
+ f security [1]. One of which was "if a bad guy has unrestricted access to y
+ our computer\, it's not your computer anymore." This has been robustly demo
+ nstrated over the years. Examples include numerous DMA-access attacks again
+ st interfaces such as firewire [2]\, PCMCIA and thunderbolt [3] as well as 
+ USB-based attacks including simple in-line keyloggers\, "evil maid" attacks
+  [4] and malicious firmware [5].\n\nDespite these warnings\, groups such as
+  the NSA were still able to use physical access to bypass software controls
+  with toolsets such as COTTONMOUTH [6]. Likewise\, criminals have been able
+  to defraud banks with a handful of simple hardware tricks [7]. While some 
+ progress has been made to secure some devices against some threats\, such a
+ s the use of full disc encryption\, or the impact of Apple's secure enclave
+  in the physical security of the iPhone [8]\, most laptops and desktops rem
+ ain vulnerable to attacks via physical interfaces.\n\nIn our experience\, o
+ rganisations merely view USB devices as a channel for malware or unsanction
+ ed communications\, and rely on protections placed elsewhere in their defen
+ sive stack to deal with them\, but few deal with the risk the USB interface
+  presents directly. There are many scenarios where gaining physical access 
+ to hosts is plausible [9]\, and having done so can provide access to "chewy
+ " internal networks [10] ripe for lateral movement.\n\nWhile most people ar
+ e familiar with USB devices\, many don't realise the extent to which the US
+ B standard allows seemingly innocuous devices to have multiple personalitie
+ s. There has been an extensive amount of research into malicious USB device
+ s\, such as TURNIPSCHOOL [15]\, GoodFET/Facedancer [16]\, Shikra [17]\, Rub
+ ber Ducky [11]\, USBdriveby [12] and BadUSB [5]. However\, none of these im
+ plement an end-to-end attack either because that was not their intention\, 
+ they only focus on a part of the attack or the project was never completed.
+ \n\nAdditionally\, existing attacks are predominantly "send only" with no b
+ uilt-in bidirectional communications. They usually rely on the executed pay
+ load and the host’s networks for any advanced remote access. Thus\, these p
+ ayloads can leave a significant forensic footprint in the form of network c
+ ommunications and on-host behaviours\, and leave them vulnerable to anti-ma
+ lware controls. Numerous companies are improving toolsets to detect such at
+ tacks [13][14]. Lastly\, these attacks are often "spray and pray"\, unable 
+ to account for variations in the user's behaviour or computer setup.\n\nOur
+  approach is to create a stealthy bi-directional channel between the host a
+ nd device\, with remote connectivity via 3G/Wi-Fi/Bluetooth and offload the
+  complexity to our hardware\, leaving a small simple stub to run on the hos
+ t. This talk will discuss the process of creating a set of malicious USB de
+ vices using low cost hardware. The design and toolkit will be released duri
+ ng the talk.\n\nOur toolkit provides three significant improvements over ex
+ isting work. The first is the ability to gain a stealthy bi-directional cha
+ nnel with the host via the device. No traffic is generated on the target ne
+ twork (i.e it would work against air-gapped hosts). This is done via the us
+ e of either a raw HID device or standard USB class printer driver linked to
+  our device\, with the stub merely wrapping commands and their output to ou
+ r device. The second is the ability to communicate with the device remotely
+  via Wi-Fi/3G/Bluetooth\, allowing for updates to the payloads\, exfiltrati
+ on of data\, real-time interaction with the host and an ability to debug pr
+ oblems. This also has the advantage that any network controls are bypassed.
+  Finally\, the stub running on the host will leave a minimal forensic trail
+ \, making detection of the attack\, or analysis of it later\, difficult. Fo
+ r completeness sake\, a new transport for metasploit was developed to allow
+  metasploit payloads to be used instead.\n\nOur hope is that the tools will
+  provide a method of demonstrating the risk of physical bypasses of softwar
+ e security without an NSA budget\, and encourage defences to be built in th
+ is area.\n\n[1] "10 Immutable Laws of Security" https://technet.microsoft.c
+ om/library/cc722487.aspx\n[2] "Physical memory attacks via Firewire/DMA - P
+ art 1: Overview and Mitigation" https://web.archive.org/web/20160304055745/
+ http://www.hermann-uwe.de/blog/physical-memory-attacks-via-firewire-dma-par
+ t-1-overview-and-mitigation\n[3] "Thunderstrike 2" https://trmm.net/Thunder
+ strike_2\n[4] "Evil Maid goes after TrueCrypt!" http://theinvisiblethings.b
+ logspot.co.za/2009/10/evil-maid-goes-after-truecrypt.html\n[5] "Turning USB
+  peripherals into BadUSB" https://srlabs.de/badusb/\n[6] "Your USB cable\, 
+ the spy: Inside the NSA’s catalog of surveillance magic" http://arstechnica
+ .com/information-technology/2013/12/inside-the-nsas-leaked-catalog-of-surve
+ illance-magic/\n[7] "How bank hackers stole £1.25 million with a simple pie
+ ce of computer hardware" https://www.grahamcluley.com/2014/04/bank-hackers-
+ hardware/\n[8] "Apple vs FBI" https://www.apple.com/customer-letter/\n[9] "
+ Users Really Do Plug in USB Drives They Find" https://zakird.com/papers/usb
+ .pdf\n[10] "The Design of a Secure Internet Gateway" http://www.cheswick.co
+ m/ches/papers/gateway.pdf\n[11] "USB Rubber Ducky Wiki" http://usbrubberduc
+ ky.com/\n[12] "USBDriveBy" http://samy.pl/usbdriveby/\n[13] "Cylance\, Math
+  vs Malware" https://cdn2.hubspot.net/hubfs/270968/All_Web_Assets/White_Pap
+ ers/MathvsMalware.pdf\n[14] "Carbon Black\, Next Generation Endpoint Securi
+ ty" https://www.carbonblack.com/wp-content/uploads/2016/03/2016_cb_wp_next_
+ gen_endpoint_security_small.pdf\n[15] "NSA Playset\, TURNIPSCHOOL" http://w
+ ww.nsaplayset.org/turnipschool\n[16] "Facedancer2" http://goodfet.sourcefor
+ ge.net/hardware/facedancer21/\n[17] "The Shikra" http://int3.cc/products/th
+ e-shikra\n\nRogan Dawes is a senior researcher at SensePost and has been ha
+ cking since 1998\, which\, coincidentally\, is also the time he settled on 
+ a final wardrobe. He used the time he saved on choosing outfits to live up 
+ to his colleague’s frequent joke that he has an offline copy of the Interne
+ t in his head. Rogan spent many years building web application assessment t
+ ools\, and is credited as having built one of the first and most widely use
+ d intercepting proxies\; WebScarab. In recent years\, Rogan has turned his 
+ attentions towards hardware hacking\; and these days many suspect him to be
+  at least part cyborg. A good conversation starter is to ask him where he k
+ eeps his JTAG header. \n\nDominic White is the CTO of SensePost\, an inform
+ ation security company based in South Africa and London. He has worked in t
+ he industry for 12 years. He tweets as @singe.
+LAST-MODIFIED:20160804T174444Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Universal Serial aBUSe: Remote Physical Access Attacks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T220000Z
+DTEND:20160806T230000Z
+DTSTAMP:20160807T164603Z
+UID:p6kl25nhleaql2ql8avkk53re4@google.com
+CREATED:20160804T174703Z
+DESCRIPTION:Haoqi Shan Hardware/Wireless security researcher\, Qihoo 360\nW
+ anqiao Zhang Communication security researcher\, Qihoo 360\n\nLTE is a more
+  advanced mobile network but not absolutely secure. Recently there already 
+ some papers those exposed the vulnerabilities of LTE network. In this prese
+ ntation\, we will introduce one method which jointly exploits the vulnerabi
+ lities in tracking area update procedure\, attach procedure\, and RRC redir
+ ection procedure\, and finally can force a targeted LTE cellphone to downgr
+ ade into a malicious GSM network\, then consequently can eavesdrop its data
+  traffic or even voice call. This attack is not a simple DoS attack. It can
+  select the targeted cellphone by filtering the IMSI number (IMSI catcher f
+ unction)\, so it will not influence the other cellphones and keep them stil
+ l in the real network. Further more\, it can force the cellphone into the m
+ alicious network that we setup (a fake network) or we assign (operator’s ne
+ twork)\, therefore the cellphone has no chance to choose other secure netwo
+ rk. This is the danger point of this attack.\n\nHaiqi Shan\, currently a wi
+ reless/hardware security researcher in Unicorn Team. He focuses on GSM syst
+ em\, router/switcher hacking etc. Other research interests include reverse 
+ engineering on embedded devices such as femto-cell base station. He has gav
+ e presentations about GSM devices hacking and wireless hacking suit on DEF 
+ CON\, Cansecwest\, Syscan\n\nWanqiao Zhang\, is a communication security re
+ searcher\, from Unicorn Team of Qihoo 360 China. She received her master de
+ gree in electronic information engineering form Nanjing University of Aeron
+ autics and Astronautics in 2015. Fascinated by the world of wireless securi
+ ty\, she is currently focus on the security research of the GPS system and 
+ the cellular network
+LAST-MODIFIED:20160804T174703Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Forcing a Targeted LTE Cellphone into an Unsafe Network
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T230000Z
+DTEND:20160806T233000Z
+DTSTAMP:20160807T164603Z
+UID:o3vrfsj72rsreh8r8c5m85tsvs@google.com
+CREATED:20160804T175150Z
+DESCRIPTION:3AlarmLampScooter Hacker\n\nDoes the thought of nuclear war wip
+ ing out your data keep you up at night? Don't trust third party data center
+ s? Few grand burning a hole in your pocket and looking for a new Sunday pro
+ ject to keep you occupied through the fall? If you answered yes to at least
+  two out of three of these questions\, then 3AlarmLampscooter's talk on ext
+ reme pervasive communications is for you! You'll learn everything from calc
+ ulating radiation half layer values to approximating soil stability involve
+ d in excavating your personal apocalypse-proof underground data fortress.\n
+ \n3AlarmLampScooter is an enigmatic armored mammal of the genus homo sapien
+ s sapiens sapiens troglodyte found in caves and tunnels across the southeas
+ tern United States. As moderator of the subreddit /r/Neutron\, 3AlarmLampsc
+ ooter's enunciation espouses pervasive communication via excavation to prot
+ ect from radiation and conflagration. When above-ground\, 3AlarmLampscooter
+  is a vocal transhumanism advocate developing 3D printed construction mater
+ ials.\n
+LAST-MODIFIED:20160804T175449Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DIY Nukeproofing: A New Dig at 'Datamining'
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T233000Z
+DTEND:20160807T000000Z
+DTSTAMP:20160807T164603Z
+UID:l2e0nd7ct6g1g1ils0kmmgv37o@google.com
+CREATED:20160804T175440Z
+DESCRIPTION:Fred Bret-Mounet Hacker\n\nI got myself a new toy: A solar arra
+ y... With it\, a little device by a top tier manufacturer that manages its 
+ performance and reports SLAs to the cloud. After spending a little time des
+ cribing why it tickled me pink\, I'll walk you through my research and yes\
+ , root is involved! Armed with the results of this pen test\, we will cover
+  the vendor's reaction to the bee sting: ostrich strategy\, denial\, panic\
+ , shooting the messenger and more. Finally\, not because I know you get it\
+ , but because the rest of the world doesn't\, we'll cover the actual threat
+ s associated with something bound to become part of our critical infrastruc
+ ture. Yes\, in this Shodan world\, one could turn off a 1.3MW solar array b
+ ut is that as valuable as using that device to infiltrate a celebrity's hom
+ e network?\n\nFred Bret-Mounet's descent into the underworld of security be
+ gan as a pen tester at @stake. Now\, he leads a dual life--info sec leader 
+ by day\, rogue hacker by night. His life in the shadows and endless curiosi
+ ty has led to surprising home automation hacks\, playing with Particle Phot
+ ons and trying to emulate Charlie & Chris' car hacking on his I3.\n\nTwitte
+ r: @fbret
+LAST-MODIFIED:20160804T175454Z
+LOCATION:Track 2
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:All Your Solar Panels are Belong to Me
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T233000Z
+DTEND:20160807T000000Z
+DTSTAMP:20160807T164603Z
+UID:3pjvl842hq3u95i29nbr62mdq8@google.com
+CREATED:20160804T175538Z
+DESCRIPTION:Kurt Opsahl Deputy Executive Director\, General Counsel\, EFF\n
+ Nate Cardozo Senior Staff Attorney\, EFF\nAndrew Crocker Staff attorney\, E
+ FF\nDr. Jeremy Giliula Staff Technologist\, EFF\nEva Galperin GlobalPolicy 
+ Analyst\, EFF\nKatitza Rodriguez International rights director\, EFF\n\nGet
+  the latest information about how the law is racing to catch up with techno
+ logical change from staffers at the Electronic Frontier Foundation\, the na
+ tion’s premiere digital civil liberties group fighting for freedom and priv
+ acy in the computer age. This session will include updates on current EFF i
+ ssues such as surveillance online\, encryption (and backdoors)\, and fighti
+ ng efforts to use intellectual property claims to shut down free speech and
+  halt innovation\, discussion of our technology project to protect privacy 
+ and speech online\, updates on cases and legislation affecting security res
+ earch\, and much more. Half the session will be given over to question-and-
+ answer\, so it's your chance to ask EFF questions about the law and technol
+ ogy issues that are important to you.\n\nKURT OPSAHL is the Deputy Executiv
+ e Director and General Counsel of the Electronic Frontier Foundation. In ad
+ dition to representing clients on civil liberties\, free speech and privacy
+  law\, Opsahl counsels on EFF projects and initiatives. Opsahl is the lead 
+ attorney on the Coders' Rights Project. Before joining EFF\, Opsahl worked 
+ at Perkins Coie\, where he represented technology clients with respect to i
+ ntellectual property\, privacy\, defamation\, and other online liability ma
+ tters\, including working on Kelly v. Arribasoft\, MGM v. Grokster and CoSt
+ ar v. LoopNet. For his work responding to government subpoenas\, Opsahl is 
+ proud to have been called a "rabid dog" by the Department of Justice. Prior
+  to Perkins\, Opsahl was a research fellow to Professor Pamela Samuelson at
+  the U.C. Berkeley School of Information Management & Systems. Opsahl recei
+ ved his law degree from Boalt Hall\, and undergraduate degree from U.C. San
+ ta Cruz. Opsahl co-authored "Electronic Media and Privacy Law Handbook." In
+  2007\, Opsahl was named as one of the "Attorneys of the Year" by Californi
+ a Lawyer magazine for his work on the O'Grady v. Superior Court appeal. In 
+ 2014\, Opsahl was elected to the USENIX Board of Directors.\n\nNATE CARDOZO
+  is a Senior Staff Attorney on the Electronic Frontier Foundation’s digital
+  civil liberties team. In addition to his focus on free speech and privacy 
+ litigation\, Nate works on EFF's Who Has Your Back? report and Coders' Righ
+ ts Project. Nate has projects involving cryptography and the law\, automoti
+ ve privacy\, government transparency\, hardware hacking rights\, anonymous 
+ speech\, electronic privacy law reform\, Freedom of Information Act litigat
+ ion\, and resisting the expansion of the surveillance state. A 2009-2010 EF
+ F Open Government Legal Fellow\, Nate spent two years in private practice b
+ efore returning to his senses and to EFF in 2012. Nate has a B.A. in Anthro
+ pology and Politics from U.C. Santa Cruz and a J.D. from U.C. Hastings wher
+ e he has taught first-year legal writing and moot court. He brews his own b
+ eer\, has been to India four times\, and watches too much Bollywood.\n\nAND
+ REW CROCKER is a staff attorney on the Electronic Frontier Foundation’s civ
+ il liberties team. He focuses on EFF’s national security and privacy docket
+ \, as well as the Coders' Rights Project. While in law school\, Andrew work
+ ed at the Berkman Center for Internet and Society\, the American Civil Libe
+ rties Union’s Speech\, Privacy\, and Technology Project\, and the Center fo
+ r Democracy and Technology. He received his undergraduate and law degrees f
+ rom Harvard University and an M.F.A. in creative writing from New York Univ
+ ersity. His interests include Boggle and donuts.\n\nDR. JEREMY GILIULA is a
+  Staff Technologist at the Electronic Frontier Foundation where he focuses 
+ on a wide variety of tech policy topics including net neutrality\, big data
+ \, mobile privacy\, and privacy issues associated with drones and autonomou
+ s vehicles. At a young age Jeremy was sidetracked from his ultimate goal of
+  protecting digital civil liberties by the allure of building and programmi
+ ng robots. He went to Caltech for undergrad\, where he spent four years par
+ ticipating in the DARPA Grand Challenge\, a competition to create a vehicle
+  capable of traversing the desert autonomously. He then got his PhD in comp
+ uter science from Stanford University\, where his research focused on the d
+ esign and analysis of algorithms for guaranteeing the safety of systems tha
+ t employ machine learning and other AI techniques in an online fashion.\n\n
+ EVA GALPERIN is EFFs Global Policy Analyst\, and has been instrumental in h
+ ighlighting government malware designed to spy upon activists around the wo
+ rld. A lifelong geek\, Eva misspent her youth working as a Systems Administ
+ rator all over Silicon Valley. Since then\, she has seen the error of her w
+ ays and earned degrees in Political Science and International Relations fro
+ m SFSU. She comes to EFF from the US-China Policy Institute\, where she res
+ earched Chinese energy policy\, helped to organize conferences\, and attemp
+ ted to make use of her rudimentary Mandarin skills.\n\nKATITZA RODRIGUEZ is
+  EFF's international rights director. She concentrates on comparative polic
+ y of international privacy issues\, with special emphasis on law enforcemen
+ t\, government surveillance\, and cross border data flows. Her work in EFF'
+ s International Program also focuses on cybersecurity at the intersection o
+ f human rights. Katitza also manages EFF's growing Latin American programs.
+  She is an advisor to the UN Internet Governance Forum (2009-2010)\, and a 
+ member of the Advisory Board of Privacy International. Before joining EFF\,
+  Katitza was director of the international privacy program at the Electroni
+ c Privacy Information Center in Washington D.C.\, where amongst other thing
+ s\, she worked on The Privacy and Human Rights Report\, an international su
+ rvey of privacy law and developments. Katitza is well known to many in glob
+ al civil society and in international policy venues for her work at the U.N
+ . Internet Governance Forum and her pivotal role in the creation and ongoin
+ g success of the Civil Society Information Society Advisory Council at the 
+ Organisation for Economic Co-operation and Development\, for which she serv
+ ed as the civil society liaison while at EPIC from 2008 to March 2010. Kati
+ tza holds a Bachelor of Law degree from the University of Lima\, Peru. Kati
+ tza's twitter handle is @txitua.
+LAST-MODIFIED:20160804T175543Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ask the EFF
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T233000Z
+DTEND:20160807T000000Z
+DTSTAMP:20160807T164603Z
+UID:7e6sbrdrelk2t6jrt72e9khvds@google.com
+CREATED:20160804T175650Z
+DESCRIPTION:WIlla Cassandra Riggins(abyssknight) Penetration Tester\, Verac
+ ode\n\nWhen the machines rise up and take away our freedom to communicate w
+ e're going to need a way out. Exfiltration of data across trust boundaries 
+ will be our only means of communication. How do we do that when the infrast
+ ructure we built to defend ourselves is the very boundary we must defeat? W
+ e use the same pathways we used to\, but bend the rules to meet our needs. 
+ Whether its breaking protocol\, attaching payloads\, or pirating the airwav
+ es we'll find a way. We'll cover using a custom server application to accep
+ t 'benign' traffic\, using social and file sharing to hide messages\, as we
+ ll as demo some long range mesh RF hardware you can drop at a target for ma
+ ximum covert ops.\n\nWilla Cassandra Riggins is a penetration tester at Ver
+ acode\, and was previously part of the Lockheed Martin CIS Red Team. She st
+ arted her career as a developer and pivoted into security to help fight the
+  pandemic that is developer apathy. Her background spans the software devel
+ opment lifecycle\, but her heart is in root shells and crown jewels. She ca
+ n be found making things at FamiLAB in Orlando\, hacking at the local DC407
+  meet-ups\, staffing the socials at BSides Orlando\, and marketing all the 
+ things at OWASP Orlando.\n\nTwitter: @willasaywhat \ndcg
+LAST-MODIFIED:20160804T175650Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Esoteric Exfiltration
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T000000Z
+DTEND:20160807T003000Z
+DTSTAMP:20160807T164603Z
+UID:o57m5fm2cmugeh2cb9v15ivo3g@google.com
+CREATED:20160804T175845Z
+DESCRIPTION:Dennis Maldonado (AKA Linuz) Security Consultant - LARES Consul
+ ting\nMedic (Tim McGuffin) Security Consultant - LARES Consulting\n\nWith m
+ inimal to no effort\, we can gain SYSTEM level access to hundreds\, if not\
+ , thousands of machines on the internet [remotely]. No\, this is not a new 
+ super 1337 exploit and no this is not even a new technique. No super fancy 
+ website with poorly designed logo is necessary\, there is nothing new here.
+  Tim and Dennis have discovered that something only stupid sysadmins would 
+ do turns out to be much more prevalent than expected. What starts off as a 
+ sysadmin's innocent attempt to fix an issue\, turns into complete compromis
+ e of entire servers/workstations with no effort needed from the attacker. T
+ im and Dennis will discuss how we came to this realization and explain how 
+ we automated looking for these issues in order to find hundreds of vulnerab
+ le machines over the internet. Tim and Dennis explain the tool developed fo
+ r automation\, provide statistics discovered from our research\, and go ove
+ r ways to protect yourself from falling victim to the issue.\n\nDennis Mald
+ onado is a Security Consultant at LARES Consulting. His current work includ
+ es penetration testing\, infrastructure assessments\, red teaming\, and sec
+ urity research. Dennis’ focus is encompassing all forms information securit
+ y into an assessment in order to better simulate a real world attack agains
+ t systems and infrastructure. As a security researcher and evangelist\, Den
+ nis spends his time sharing what he knows about Information Security with a
+ nyone willing to learn. Dennis is a returning speaker to DEF CON and has pr
+ esented at numerous workshops and meet-ups in the Houston area. Dennis co-f
+ ounded Houston Locksport in Houston\, Texas where he shares his love for lo
+ ck-picking physical security as well as Houston Area Hackers Anonymous (HAH
+ A)\, a meet-up for hackers and InfoSec professionals in the Houston area.\n
+ \nTwitter: @DennisMald\n\nTim was voted "most likely to be indicted" by his
+  high school senior class\, but has since gone on to gain the trust of larg
+ e organizations and their executive management\, which may or may not be a 
+ good thing. He holds a few industry certifications and is a member of a few
+  security organizations\, but considers his insomnia and attention deficit 
+ problems far more important to his career.\n\nTwitter: @NotMedic\n\n
+LAST-MODIFIED:20160804T175849Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sticky Keys To The Kingdom: Pre-auth RCE Is More Common Than You Th
+ ink
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T000000Z
+DTEND:20160807T010000Z
+DTSTAMP:20160807T164603Z
+UID:29pbp65of494nebucbbf616kno@google.com
+CREATED:20160804T175935Z
+DESCRIPTION:Nate Cardozo Senior Staff Attorney\, Electronic Frontier Founda
+ tion\n\nStrong end-to-end encryption is legal in the United States today\, 
+ thanks to our victory in what’s come to be known as the Crypto Wars of the 
+ 1990s. But in the wake of Paris and San Bernardino\, there is increasing pr
+ essure from law enforcement and policy makers\, both here and abroad\, to m
+ andate so-called backdoors in encryption products. In this presentation\, I
+  will discuss in brief the history of the first Crypto Wars\, and the state
+  of the law coming into 2016. I will then discuss what happened in the figh
+ t between Apple and the FBI in San Bernardino and the current proposals to 
+ weaken or ban encryption\, covering proposed and recently enacted laws in N
+ ew York\, California\, Australia\, India\, and the UK. Finally\, I will dis
+ cuss possible realistic outcomes to the Second Crypto Wars\, and give my pr
+ edictions on what the State of the Law will be at the end of 2016.\n\nNate 
+ Cardozo is a Senior Staff Attorney on the Electronic Frontier Foundation’s 
+ digital civil liberties team. In addition to his focus on free speech and p
+ rivacy litigation\, Nate works on EFF’s cryptography policy and the Coders’
+  Rights Project. Nate has projects involving export controls on software\, 
+ state-sponsored malware\, automotive privacy\, government transparency\, ha
+ rdware hacking rights\, anonymous speech\, electronic privacy law reform\, 
+ Freedom of Information Act litigation\, and resisting the expansion of the 
+ surveillance state. A 2009-2010 EFF Open Government Legal Fellow\, Nate has
+  a B.A. in Anthropology and Politics from U.C. Santa Cruz and a J.D. from U
+ .C. Hastings.\n\nTwitter: @ncardozo
+LAST-MODIFIED:20160804T175945Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crypto: State of the Law
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T170000Z
+DTEND:20160807T180000Z
+DTSTAMP:20160807T164603Z
+UID:n012cmebkdimsns4intv3vmo10@google.com
+CREATED:20160804T180321Z
+DESCRIPTION:Przemek Jaroszewski CERT Polska/NASK\n\nWhile traveling through
+  airports\, we usually don't give a second thought about why our boarding p
+ asses are scanned at various places. After all\, it's all for the sake of p
+ assengers' security. Or is it? The fact that boarding pass security is brok
+ en has been proven many times by researchers who easily crafted their passe
+ s\, effectively bypassing not just ‘passenger only’ screening\, but also no
+ -fly lists. Since then\, not only security problems have not been solved\, 
+ but boarding passes have become almost entirely bar-coded. And they are inc
+ reasingly often checked by machines rather than humans. Effectively\, we're
+  dealing with simple unencrypted strings of characters containing all the i
+ nformation needed to decide on our eligibility for fast lane access\, duty-
+ free shopping\, and more... \n\nWith a set of easily available tools\, boar
+ ding pass hacking is easier than ever\, and the checks are mostly a securit
+ y theater. In my talk\, I will discuss in depth how the boarding pass infor
+ mation is created\, encoded and validated. I will demonstrate how easy it i
+ s to craft own boarding pass that works perfectly at most checkpoints (and 
+ explain why it doesn't work at other ones). \n\nI will also discuss IATA re
+ commendations\, security measures implemented in boarding passes (such as d
+ igital signatures) and their (in)effectiveness\, as well as responses I got
+  from different institutions involved in handling boarding passes. There wi
+ ll be some fun\, as well as some serious questions that I don't necessarily
+  have good answers to.\n\nPrzemek Jaroszewski is a member of CERT Polska (p
+ art of Research and Academic Computer Network in Poland) since 2001\, where
+  his current position is the head of incident response. He started his educ
+ ation as a programmer at Warsaw University of Technology\, to eventually ge
+ t his master's degree in Social Psychology from University of Social Scienc
+ es and Humanities in Warsaw. A frequent flyer in both professional and priv
+ ate lives\, and a big aviation enthusiast - using every opportunity to lear
+ n about everything from inner workings of airports\, airlines\, ATC etc. to
+  life-hacking of loyalty programs.\n\nBack to top
+LAST-MODIFIED:20160804T180321Z
+LOCATION:Track 101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How to get good seats in the security theater? Hacking boarding pas
+ ses for fun and profit.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T170000Z
+DTEND:20160807T180000Z
+DTSTAMP:20160807T164603Z
+UID:5d1ju7jsou9t8a9mj1thrng4ss@google.com
+CREATED:20160804T180354Z
+DESCRIPTION:Weston Hecker Senior Security Engineer & Pentester\, Rapid7\n\n
+ Take a look at weaknesses in Point of sale systems and the foundation of ho
+ tel key data and the Property management systems that manage the keys. Usin
+ g a modified MST injection method Weston will demonstrate several attacks o
+ n POS and Hotel keys including brute forcing other guest’s keys from your c
+ ard information as a start point. And methods of injecting keystrokes into 
+ POS systems just as if you had a keyboard plugged into the system. This inc
+ ludes injecting keystrokes to open cash drawer and abusing Magstripe based 
+ rewards programs that are used a variety of environments from retail down t
+ o rewards programs in Slot Machines.\n\n11 Years Pen-testing\, 12 years’ se
+ curity research and programming experience. Working for a security Company 
+ in the Midwest Weston has recently Spoken at DEF CON 22 & 23\, Black Hat US
+ A 2016\, Enterprise Connect 2016 ISC2-Security Congress\, SC-Congress Toron
+ to\, HOPE11\, BSIDES Boston and over 50 other speaking engagements from tel
+ ecom Regional events to University’s on security subject matter. Working wi
+ th A Major University's research project with Department of Homeland Securi
+ ty on 911 emergency systems and attack mitigation. Attended school in Minne
+ apolis Minnesota. Computer Science and Geophysics. Found several vulnerabil
+ ities’ in very popular software and firmware. Including Microsoft\, Qualcom
+ m\, Samsung\, HTC\, Verizon.
+LAST-MODIFIED:20160804T180354Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hacking Hotel Keys and Point of Sale Systems: Attacking Systems Usi
+ ng Magnetic Secure Transmission
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T170000Z
+DTEND:20160807T180000Z
+DTSTAMP:20160807T164603Z
+UID:e7u3o8ur3261renidgj4li2efs@google.com
+CREATED:20160804T180502Z
+DESCRIPTION:Karyn Benson Graduate Student\n\nNetwork telescopes are collect
+ ions of unused but BGP-announced IP addresses. They collect the pollution o
+ f the Internet: scanning\, misconfigurations\, backscatter from DoS attacks
+ \, bugs\, etc. For example\, several historical studies used network telesc
+ opes to examine worm outbreaks.\n\nIn this talk I will discuss phenomena th
+ at have recently induced many sources to send traffic to network telescopes
+ . By examining this pollution we find a wealth of security-related data. Sp
+ ecifically\, I'll touch on scanning trends\, DoS attacks that leverage open
+  DNS resolvers to overwhelm authoritative name servers\, BitTorrent index p
+ oisoning attacks (which targeted torrents with China in their name)\, a byt
+ e order bug in Qihoo 360 (while updating\, this security software sent ackn
+ owledgements to wrong IP addresses... for 5 years)\, and the consequence of
+  an error in Sality's distributed hash table.\n\nKaryn recently defended he
+ r PhD in computer science. Prior to starting graduate school she wrote intr
+ usion detection software for the US Army. When not looking at packets\, Kar
+ b eats tacos\, runs marathons\, and collects state quarters.\n\n
+LAST-MODIFIED:20160804T180502Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Examining the Internet's pollution
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160804T210000Z
+DTEND:20160804T220000Z
+DTSTAMP:20160807T164603Z
+UID:45c3ptja4nfnoqk3n90la304vg@google.com
+CREATED:20160804T160924Z
+DESCRIPTION:We are releasing a new tool for discovering bluetooth devices a
+ nd automatically probing them for information. Effectively we have created 
+ a new tool with an airodump-ng like display for nearby bluetooth and blueto
+ oth low energy devices. We will discuss the challenges with finding bluetoo
+ th devices\, as well as how we have overcome them using both standard bluet
+ ooth adapters and optionally ubertooth hardware. If you have ever wondered 
+ why no one released an effective tool to see all the bluetooth in the area 
+ then come by\, learn a little\, and leave with a tool you have always wante
+ d. Blue Hydra will discover and track bluetooth and bluetooth low energy de
+ vices in the area\, regardless of being in discoverable mode\, and tracks d
+ ata (bluetooth version\, services\, etc) as well as meta-data (signal stren
+ gth\, timestamps) over time. We will be going over how bluetooth operates o
+ n a high level\, and how we were able to discover and track nearby devices.
+  A deep understanding of the bluetooth protocol was not needed to develop B
+ lue Hydra (we stood on the shoulders of giants) and will not be required to
+  use Blue Hydra or understand it's output.\n\nZero_Chaos is a well known wi
+ reless hacker who helps to run the Wireless Village at DEF CON and the Wire
+ less Capture the Flag at numerous conventions (including DEF CON ). Always 
+ quick to open his mouth when he probably shouldn't\, Zero enjoys talking to
+  people about wireless hacking and teaching anyone with an interest.\n\nhtt
+ ps://www.defcon.org/html/defcon-24/dc-24-speakers.html#Zero_Chaos
+LAST-MODIFIED:20160804T192732Z
+LOCATION:DEFCON 101
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Realtime Bluetooth Device Detection with Blue Hydra
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T030000Z
+DTEND:20160807T050000Z
+DTSTAMP:20160807T164603Z
+UID:c6i09bvajlrv4dp6iivejjft00@google.com
+CREATED:20160804T180108Z
+DESCRIPTION:
+LAST-MODIFIED:20160806T012135Z
+LOCATION:Track 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hacker Jeopardy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T030000Z
+DTEND:20160806T050000Z
+DTSTAMP:20160807T164603Z
+UID:agpubr9i4l9l09pshf1t1p7buc@google.com
+CREATED:20160804T171425Z
+DESCRIPTION:
+LAST-MODIFIED:20160806T012139Z
+LOCATION:Track 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hacker Jeopardy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T180000Z
+DTEND:20160807T190000Z
+DTSTAMP:20160807T164603Z
+UID:2amp5qh5a7vpvv3e63jailqc88@google.com
+CREATED:20160807T062957Z
+DESCRIPTION:Mike Principal Cyber Security Engineer\, The MITRE Corporation\
+ n\nWe've all worked on ‘closed systems’ with little to no direct Internet a
+ ccess. And we've all struggled with the limitations those systems put on us
+  in the form of available tools or software we want to use. I didn't like s
+ truggling\, so I came up with a method to load whatever I wanted on to a cl
+ osed system without triggering any common security alerts. To do this I had
+  to avoid accessing the Internet or using mag media. In the end all I neede
+ d was an office multi-function machine and Excel. It's all any insider need
+ s. \n\nFor my presentation and demo\, I'll show you how I delivered a selec
+ t group of PowerSploit tools to a clean\, isolated machine. Of course\, Exc
+ el has been known as vector for macro viruses for quite some time and some 
+ of the techniques--such as hex-encoding binary data and re-encoding it on a
+  target machine--are known binary insertion vectors but I have not found an
+ y prior work on an insider using these techniques to deliver payloads to cl
+ osed systems. You'll leave my presentation knowing why Excel\, umm\, excels
+  as an insider attack tool\, how to leverage Excel features to load and ext
+ ract arbitrary binary data from a closed network\, and what to do if this r
+ eally frightens you.\n\nMike has over 20 years experience in the military. 
+ He has been part of everything from systems acquisition\, to tactical intel
+ ligence collection\, to staff work\, to leading a unit dedicated to data lo
+ ss prevention. He recently retired from active military service and is now 
+ working as a systems security engineer. This is Mike's first security confe
+ rence presentation and will also be the first public release of a tool he h
+ as written. Mike has previously published twice in 2600 magazine. Mike is s
+ uper proud of his OSCP certification. He's also a CISSP.\n\nTwitter: @miket
+ ofet
+LAST-MODIFIED:20160807T062957Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Use Their Machines Against Them: Loading Code with a Copier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T200000Z
+DTEND:20160807T210000Z
+DTSTAMP:20160807T164603Z
+UID:15qtuufuti8phtba3thsb975hg@google.com
+CREATED:20160807T063628Z
+DESCRIPTION:Jianhao Liu Director of ADLAB\, Qihoo 360\nChen Yan PhD student
+ \, Zhejiang University\nWenyuan Xu Professor\, Electrical Engineering\, Zhe
+ jiang University\nTo improve road safety and driving experiences\, autonomo
+ us vehicles have emerged recently\, and they can sense their surroundings a
+ nd navigate without human inputs. Although promising and proving safety fea
+ tures\, the trustworthiness of these cars has to be examined before they ca
+ n be widely adopted on the road. Unlike traditional network security\, auto
+ nomous vehicles rely heavily on their sensory ability of their surroundings
+  to make driving decision\, which opens a new security risk. Thus\, in this
+  talk we examine the security of the sensors of autonomous vehicles\, and i
+ nvestigate the trustworthiness of the 'eyes' of the cars. In this talk\, we
+  investigate sensors whose measurements are used to guide driving\, i.e.\, 
+ millimeter-wave radars\, ultrasonic sensors\, forward-looking cameras. In p
+ articular\, we present contactless attacks on these sensors and show our re
+ sults collected both in the lab and outdoors on a Tesla Model S automobile.
+  We show that using off-the-shelf hardware\, we are able to perform jamming
+  and spoofing attacks\, which caused the Tesla's blindness and malfunction\
+ , all of which could potentially lead to crashes and greatly impair the saf
+ ety of self-driving cars. To alleviate the issues\, at the end of the talk 
+ we propose software and hardware countermeasures that will improve sensor r
+ esilience against these attacks.\n\nJianhao Liu is the director of ADLAB at
+  Qihoo 360. He specializes in the security of Internet of Things and Intern
+ et of Vehicles. He has reported a security vulnerability of Tesla Model S\,
+  led a security research on the remote control of a BYD car\, and participa
+ ted in the drafting of security standards among the automobile society. Bei
+ ng a security expert employed by various information security organizations
+  and companies\, he is well experienced in security service\, security eval
+ uation\, and penetration test.\n\nChen Yan is a PhD student at Zhejiang Uni
+ versity in the Ubiquitous System Security Laboratory. His research focuses 
+ on the security and privacy of wireless communication and embedded systems\
+ , including automobile\, analog sensors\, and IoT devices.\n\nWenyuan Xu is
+  a professor in the College of Electrical Engineering at Zhejiang Universit
+ y and an associate professor in the Department of Computer Science and Engi
+ neering at University of South Carolina. She received her Ph.D. degree in E
+ lectrical and Computer Engineering from Rutgers University in 2007. Her res
+ earch interests include wireless security\, network security\, and IoT secu
+ rity. She is among the first to discover vulnerabilities of tire pressure m
+ onitor systems in modern automobiles and automatic meter reading systems. D
+ r. Xu received the NSF Career Award in 2009. She has served on the technica
+ l program committees for several IEEE/ACM conferences on wireless networkin
+ g and security\, and she is an associated editor of EURASIP Journal on Info
+ rmation Security.\n
+LAST-MODIFIED:20160807T063628Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Can You Trust Autonomous Vehicles: Contactless Attacks against Sens
+ ors of a Self-driving Vehicle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T200000Z
+DTEND:20160807T210000Z
+DTSTAMP:20160807T164603Z
+UID:j8ek1n0udjjumgsjnjpbaj1akc@google.com
+CREATED:20160807T063742Z
+DESCRIPTION:\nJmaxxz Hacker\n\nAs our homes become smarter and more connect
+ ed we come up with new ways of reasoning about our privacy and security. Ve
+ ndors promise security\, but provide little technical information to back u
+ p their claims. Further complicating the matter\, many of these devices are
+  closed systems which can be difficult to assess. This talk will explore th
+ e validity of claims made by one smart lock manufacturer about the security
+  of their product. The entire solution will be deconstructed and examined a
+ ll the way from web services to the lock itself. By exploiting multiple vul
+ nerabilities Jmaxxz will demonstrate not only how to backdoor a front door\
+ , but also how to utilize these same techniques to protect your privacy.\n\
+ nJmaxxz works as a software engineer for a Fortune 100 company\, and is a s
+ ecurity researcher for pleasure. His FlashHacker program was featured in Li
+ fehacker's most popular free downloads of 2010. More recently he has contri
+ buted to the node_pcap project which allows interfacing with libpcap from n
+ ode. His other interests include lock picking and taking things apart.\n
+LAST-MODIFIED:20160807T063742Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backdooring the Frontdoor
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T200000Z
+DTEND:20160807T210000Z
+DTSTAMP:20160807T164603Z
+UID:deoj5fft1gtk8v0cnddht5n85k@google.com
+CREATED:20160807T063906Z
+DESCRIPTION:Aaron Luo Security Expert\, Trend Micro\n\nDrone related applic
+ ations have sprung up in the recent years\, and the drone security has also
+  became a hot topic in the security industry. This talk will introduce some
+  general security issues of the drones\, including vulnerabilities existing
+  in the radio signals\, WiFi\, Chipset\, FPV system\, GPS\, App\, and SDK. 
+ The most famous and popular drone product will be used to demonstrate the s
+ ecurity vulnerabilities of each aspects\, and recommendation of enforcement
+ s. The talk will also demo how to take control of the drone through the vul
+ nerabilities.\n\nThe topic of hacking by faking the GPS signals has been sh
+ ared before in Black Hat and DEF CON in the past\, this talk will extend th
+ is topic to the drone security. we will demo the real-time hijacking progra
+ m that we created for various drone\, this program can take full control of
+  the Drone’s maneuver by simply keyboard input. In addition\, we will also 
+ introduce how to detect the fake GPS signals.\n\nAn open source tool suppor
+ ting u-box GPS modules and SDR to detect fake GPS signals will be shared an
+ d published in the GitHub.\n\nAaron Luo is the cyber threat expert from Tre
+ nd Micro Core Technology Group. Prior to joining Trend Micro\, Aaron worked
+  as a security consultant in the government cybercrime investigation depart
+ ment focusing on malware analysis\, network forensics and protocol analysis
+ .\n\nHe has started his security research since 2005 and is active in the i
+ nformation security communities in Taiwan. He was the founder of PHATE hack
+ er group\, and a core member of ZUSO Security. Now he is a member of CHROOT
+ /HITCON security research group and is interested in reverse engineering\, 
+ developing security attack/defense tools (such as Firewall\, HIPS system\, 
+ protocol analysis\, RAT\, shellcode\, vulnerability scanner)\, network fore
+ nsics\, RF\, IoT\, and penetration testing.\n\nAaron has several research p
+ apers published in HITCON and SYSCAN360 such as "The Concept of Game Hackin
+ g & Bypassing Game Protection (Hackshield)" in HITCON (Hacks in Taiwan Conf
+ erence) 2009 when he was just eighteen years old. Until today\, he is still
+  the youngest speaker ever in HITCON\, and "Smashing iOS Apps For Fun And P
+ rofit" was also published in the 1st SYSCAN360 (2012).
+LAST-MODIFIED:20160807T063906Z
+LOCATION:Track 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Drones Hijacking - multi-dimensional attack vectors and countermeas
+ ures
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T210000Z
+DTEND:20160807T220000Z
+DTSTAMP:20160807T164603Z
+UID:sdro8h9kcl6srd0g58ub780ksg@google.com
+CREATED:20160807T064330Z
+DESCRIPTION:Ronny Bull Assistant Professor of Computer Science\, Utica Coll
+ ege & Ph.D. Candidate\, Clarkson University\nDr. Jeanna N. Matthews Associa
+ te Professor of Computer Science\, Clarkson University\nMs. Kaitlin A. Trum
+ bull Undergraduate CS Research Assistant\, Utica College\n\nCloud service p
+ roviders offer their customers the ability to deploy virtual machines in a 
+ multi-tenant environment. These virtual machines are typically connected to
+  the physical network via a virtualized network configuration. This could b
+ e as simple as a bridged interface to each virtual machine or as complicate
+ d as a virtual switch providing more robust networking features such as VLA
+ Ns\, QoS\, and monitoring. At DEF CON 23\, we presented how attacks known t
+ o be successful on physical switches apply to their virtualized counterpart
+ s. Here\, we present new results demonstrating successful attacks on more c
+ omplicated virtual switch configurations such as VLANs. In particular\, we 
+ demonstrate VLAN hopping\, ARP poisoning and Man-in-the-Middle attacks acro
+ ss every major hypervisor platform. We have added more hypervisor environme
+ nts and virtual switch configurations since our last disclosure\, and have 
+ included results of attacks originating from the physical network as well a
+ s attacks originating in the virtual network.\n\nMr.Bull is an Assistant Pr
+ ofessor of Computer Science at Utica College with a focus in computer netwo
+ rking and cybersecurity. He is also a Computer Science Ph.D. candidate at C
+ larkson University focusing on Layer 2 network security in virtualized envi
+ ronments. Ronny earned an A.A.S. degree in Computer Networking at Herkimer 
+ College in 2006 and completed both a B.S. and M.S. in Computer Science at S
+ UNYIT in 2011. He also co-founded and is one of the primary organizers of t
+ he Central New York Intercollegiate Hackathon event which brings together c
+ ybersecurity students from regional colleges to compete against each other 
+ in offensive and defensive cybersecurity activities.\n\nDr. Matthews is an 
+ Associate Professor of Computer Science at Clarkson University. Her researc
+ h interests include virtualization\, cloud computing\, computer security\, 
+ computer networks and operating systems. Jeanna received her Ph.D. in Compu
+ ter Science from the University of California at Berkeley in 1999. She is c
+ urrently the co-editor of ACM Operating System Review and a member of the E
+ xecutive Committee of US-ACM\, the U.S. Public Policy Committee of ACM. She
+  is a former chair of the ACM Special Interest Group on Operating Systems (
+ SIGOPS). She has written several popular books including Running Xen: A Han
+ ds-On Guide to the Art of Virtualization and Computer Networking: Internet 
+ Protocols In Action.\n\nMiss Trumbull is an undergraduate student at Utica 
+ College working on her bachelors degree in Computer Science with a concentr
+ ation in computer and network security. She is also an officer of the Utica
+  College Computer Science club (a.k.a. The UC Compilers). Kaitlin is curren
+ tly working as an undergraduate research assistant to Professor Bull.
+LAST-MODIFIED:20160807T064355Z
+LOCATION:Track 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VLAN hopping\, ARP Poisoning and Man-In-The-Middle Attacks in Virtu
+ alized Environment3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160807T220000Z
+DTEND:20160807T230000Z
+DTSTAMP:20160807T164603Z
+UID:qf0d0a2j6c84r4pvh51he8084c@google.com
+CREATED:20160807T064530Z
+DESCRIPTION:\nAdam Donenfeld Senior Security Researcher\, Check Point\n\nFo
+ llowing recent security issues discovered in Android\, Google made a number
+  of changes to tighten security across its fragmented landscape. However\, 
+ Google is not alone in the struggle to keep Android safe. Qualcomm\, a supp
+ lier of 80% of the chipsets in the Android ecosystem\, has almost as much e
+ ffect on Android’s security as Google. With this in mind\, we decided to ex
+ amine Qualcomm’s code in Android devices. During our research\, we found mu
+ ltiple privilege escalation vulnerabilities in multiple subsystems introduc
+ ed by Qualcomm to all its Android devices in multiple different subsystems.
+  In this presentation we will review not only the privilege escalation vuln
+ erabilities we found\, but also demonstrate and present a detailed exploita
+ tion\, overcoming all the existing mitigations in Android’s Linux kernel to
+  run kernel-code\, elevating privileges and thus gaining root privileges an
+ d completely bypassing SELinux.\n\nAdam Donenfeld is a lead mobile security
+  researcher at Check Point with vast experience in the mobile research fiel
+ d. From a young age he has been hacking and reverse engineering for fun and
+  profit. Prior to Check Point Adam served in an Israeli elite intelligence 
+ unit\, as a security researcher. In his free time\, Adam studies German.
+LAST-MODIFIED:20160807T064530Z
+LOCATION:Track 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stumping the Mobile Chipset
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
