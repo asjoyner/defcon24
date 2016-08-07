@@ -33,3 +33,5 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 * [Hacking Hotel Keys and Point of Sale systems](https://github.com/asjoyner/defcon24/blob/master/talks/HackingHotelKeys.md)
 * [Use Their Machines Against Them: Loading Code with a Copier](https://github.com/asjoyner/defcon24/blob/master/talks/LoadingCodeFromCopier.md)
 * [Can You Trust Autonomous Vehicles: Contactless Attacks Against Sensors of Self-driving Vehicle](https://github.com/asjoyner/defcon24/blob/master/talks/ContactlessAttacksAgainstAutonomousVehicles.md)
+* [VLAN hopping, ARP poisoning & MITM Attacks in Virtualized Environments](https://github.com/asjoyner/defcon24/blob/master/talks/HackingVirtualSwitch.md)
+
