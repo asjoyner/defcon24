@@ -5,27 +5,27 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 ## The Talks
 ### Thursday
 * Realtime Bluetooth Device Detection: Couldn't get into the DEFCON 101 room at all on day 1.  Small room, only one thing going on, several tens of thousands of attendees... thus an endless line.
-* [Cyber Grand Challenge](https://github.com/asjoyner/defcon24/blob/master/Cyber Grand Challenge.md)
+* [Cyber Grand Challenge](https://github.com/asjoyner/defcon24/blob/master/talks/Cyber Grand Challenge.md)
 
 ### Friday
-* [Feds and 0Days](https://github.com/asjoyner/defcon24/blob/master/FedsAnd0Days.md)
-* [Compelled Decryption](https://github.com/asjoyner/defcon24/blob/master/CompelledDecryption.md)
-* [Honey Onions: Exposing Snooping Tor HSDir Relays](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
-* [Frontrunning the Frontrunners](https://github.com/asjoyner/defcon24/blob/master/FrontRunners.md)
+* [Feds and 0Days](https://github.com/asjoyner/defcon24/blob/master/talks/FedsAnd0Days.md)
+* [Compelled Decryption](https://github.com/asjoyner/defcon24/blob/master/talks/CompelledDecryption.md)
+* [Honey Onions: Exposing Snooping Tor HSDir Relays](https://github.com/asjoyner/defcon24/blob/master/talks/HoneyOnions.md)
+* [Frontrunning the Frontrunners](https://github.com/asjoyner/defcon24/blob/master/talks/FrontRunners.md)
 * How to remote control an airliner: cancelled; presenter didn't show.  :-(
-* [Honey Onions](https://github.com/asjoyner/defcon24/blob/master/HoneyOnions.md)
-* [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/SlouchingTowardsUtpoia.md)
-* [Side-channel attacks on high-security electronic safe locks](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
-* [Samsung Pay: Tokenized Numbers, Flaws and Issues](https://github.com/asjoyner/defcon24/blob/master/Side-Channel-Locks.md)
-* [Hacking Next-Gen ATM's From Capture to Cashout](https://github.com/asjoyner/defcon24/blob/master/HackingATMs.md)
+* [Honey Onions](https://github.com/asjoyner/defcon24/blob/master/talks/HoneyOnions.md)
+* [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/talks/SlouchingTowardsUtpoia.md)
+* [Side-channel attacks on high-security electronic safe locks](https://github.com/asjoyner/defcon24/blob/master/talks/Side-Channel-Locks.md)
+* [Samsung Pay: Tokenized Numbers, Flaws and Issues](https://github.com/asjoyner/defcon24/blob/master/talks/Side-Channel-Locks.md)
+* [Hacking Next-Gen ATM's From Capture to Cashout](https://github.com/asjoyner/defcon24/blob/master/talks/HackingATMs.md)
 
 
 ### Saturday
-* [How to overthrow a Government](https://github.com/asjoyner/defcon24/blob/master/OverthrowGovernment.md)
-* [Picking Bluetooth Low Energy Locks from a Quarter Mile Away](https://github.com/asjoyner/defcon24/blob/master/PickingBluetoothLowEnergyLocks.md)
-* [Bypassing Captive Portals and Limited Networks](https://github.com/asjoyner/defcon24/blob/master/BypassingCaptivePortals.md)
-* [NG91-1-1: The Next Generation of Emergency Ph0nage](https://github.com/asjoyner/defcon24/blob/master/NG911.md)
-* [Hacker-Machine Interface - State of the Union for SCADA HMI Vulnerabilities](https://github.com/asjoyner/defcon24/blob/master/SCADA-HMI.md)
-* [Forcing Targeted LTE Cellphone into Unsafe Network](https://github.com/asjoyner/defcon24/blob/master/LteRedirection.md)
-* [DIY Nukeproofing: a new dig at "data-mining"](https://github.com/asjoyner/defcon24/blob/master/DiyNukeproofing.md)
+* [How to overthrow a Government](https://github.com/asjoyner/defcon24/blob/master/talks/OverthrowGovernment.md)
+* [Picking Bluetooth Low Energy Locks from a Quarter Mile Away](https://github.com/asjoyner/defcon24/blob/master/talks/PickingBluetoothLowEnergyLocks.md)
+* [Bypassing Captive Portals and Limited Networks](https://github.com/asjoyner/defcon24/blob/master/talks/BypassingCaptivePortals.md)
+* [NG91-1-1: The Next Generation of Emergency Ph0nage](https://github.com/asjoyner/defcon24/blob/master/talks/NG911.md)
+* [Hacker-Machine Interface - State of the Union for SCADA HMI Vulnerabilities](https://github.com/asjoyner/defcon24/blob/master/talks/SCADA-HMI.md)
+* [Forcing Targeted LTE Cellphone into Unsafe Network](https://github.com/asjoyner/defcon24/blob/master/talks/LteRedirection.md)
+* [DIY Nukeproofing: a new dig at "data-mining"](https://github.com/asjoyner/defcon24/blob/master/talks/DiyNukeproofing.md)
 
