@@ -27,3 +27,5 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 * [NG91-1-1: The Next Generation of Emergency Ph0nage](https://github.com/asjoyner/defcon24/blob/master/NG911.md)
 * [Hacker-Machine Interface - State of the Union for SCADA HMI Vulnerabilities](https://github.com/asjoyner/defcon24/blob/master/SCADA-HMI.md)
 * [Forcing Targeted LTE Cellphone into Unsafe Network](https://github.com/asjoyner/defcon24/blob/master/LteRedirection.md)
+* [DIY Nukeproofing: a new dig at "data-mining"](https://github.com/asjoyner/defcon24/blob/master/DiyNukeproofing.md)
+
