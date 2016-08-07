@@ -31,4 +31,4 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 
 ### Sunday
 * [Hacking Hotel Keys and Point of Sale systems](https://github.com/asjoyner/defcon24/blob/master/talks/HackingHotelKeys.md)
-
+* [Use Their Machines Against Them: Loading Code with a Copier](https://github.com/asjoyner/defcon24/blob/master/talks/LoadingCodeFromCopier.md)
