@@ -29,3 +29,6 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 * [Forcing Targeted LTE Cellphone into Unsafe Network](https://github.com/asjoyner/defcon24/blob/master/talks/LteRedirection.md)
 * [DIY Nukeproofing: a new dig at "data-mining"](https://github.com/asjoyner/defcon24/blob/master/talks/DiyNukeproofing.md)
 
+### Sunday
+* [Hacking Hotel Keys and Point of Sale systems](https://github.com/asjoyner/defcon24/blob/master/talks/HackingHotelKeys.md)
+
