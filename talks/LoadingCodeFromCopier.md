@@ -16,8 +16,9 @@ Closed / locked down network, couldn't use the tools he wanted, couldn't load th
 * data stransfer entry points do not exist, etc.
 
 ### Tools available
-Scanner
-Acrobat OCR
+1. Commercial Scanner / Multifunction copier device
+1. Acrobat OCR
+1. Locked down workstation, but with Excel...
 
 ### Phase 0
 1. Put Excel into "attack mode", eg.  turn on developer checkbox.  Now have access to basically an IDE in Excel.
