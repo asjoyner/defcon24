@@ -13,7 +13,6 @@ DEF CON is a hacking conference held in Las Vegas, NV.  This year is DEF CON 24,
 * [Honey Onions: Exposing Snooping Tor HSDir Relays](https://github.com/asjoyner/defcon24/blob/master/talks/HoneyOnions.md)
 * [Frontrunning the Frontrunners](https://github.com/asjoyner/defcon24/blob/master/talks/FrontRunners.md)
 * How to remote control an airliner: cancelled; presenter didn't show.  :-(
-* [Honey Onions](https://github.com/asjoyner/defcon24/blob/master/talks/HoneyOnions.md)
 * [Slouching Towards Utopia](https://github.com/asjoyner/defcon24/blob/master/talks/SlouchingTowardsUtpoia.md)
 * [Side-channel attacks on high-security electronic safe locks](https://github.com/asjoyner/defcon24/blob/master/talks/Side-Channel-Locks.md)
 * [Samsung Pay: Tokenized Numbers, Flaws and Issues](https://github.com/asjoyner/defcon24/blob/master/talks/Side-Channel-Locks.md)
