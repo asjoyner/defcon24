@@ -2,7 +2,7 @@
 
 [Abstract](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Plore)
 
-This talk focuses on Group 1 UL listed locks.  Not cheap hotel-safe locks, but not GSA-approved high security locks.  The focus is on the type of locks found on large commercial gun, burglary and fire safes.
+This talk focuses on Group 1 UL listed locks.  Not cheap hotel-safe locks, but not GSA-approved (actually high security) locks.  The focus is on the type of locks found on large commercial gun, burglary and fire safes.
 
 ## First Target
 S&G 6120
